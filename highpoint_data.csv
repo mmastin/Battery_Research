@@ -1,0 +1,658 @@
+Rate,Measure Names,Max Demand Rate ($/kW),Measure Values
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),kWh Savings ($),$16.23,1898552.5
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),kWh Savings ($),$38.02,191859.983333333
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),kWh Savings ($),$15.57,2359980
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),kWh Savings ($),$36.38,254879.5
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),kWh Savings ($),$11.05,591887.5
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),kWh Savings ($),$34.91,357658.75
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),kWh Savings ($),$17.81,523416.5
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,kWh Savings ($),$9.97,159470.35
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,kWh Savings ($),$30.87,90587.0125
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,kWh Savings ($),$13.20,144760.5875
+Small_General_Time-of-Day_Service_(A12),kWh Savings ($),$0.00,27809.1
+Small_General_Service_Time-Of-Use_(A-1)(B),kWh Savings ($),$7.48,49195.6
+Small_General_Service_Metered_(A10),kWh Savings ($),$0.00,247110.20625
+Small_General_Service_(A-1)(A),kWh Savings ($),$7.48,39845.8
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,kWh Savings ($),$4.84,153173.733333333
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,kWh Savings ($),$18.90,1660.8125
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,kWh Savings ($),$15.66,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,kWh Savings ($),$0.00,-0.125
+Schedule_SMC_-_Small_General_Service_City,kWh Savings ($),$0.00,0
+Schedule_P,kWh Savings ($),$5.31,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,kWh Savings ($),$2.32,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,kWh Savings ($),$2.32,0
+Schedule_MDD_-_Medium_Network_General_Service,kWh Savings ($),$4.54,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,kWh Savings ($),$2.32,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,kWh Savings ($),$2.32,0
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),kWh Savings ($),$3.83,0
+Schedule_LGC_-_Large_Standard_General_Service_City,kWh Savings ($),$2.08,0
+Schedule_GS_Type_2_(Secondary),kWh Savings ($),$0.00,23187.95
+Schedule_GL_(Secondary_Voltage),kWh Savings ($),$6.15,21715.666666667
+Schedule_G_-_Secondary,kWh Savings ($),$0.00,504510.79375
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],kWh Savings ($),$41.95,454227.225
+SC-9_-_General_Large_TOD_Service_[NYC],kWh Savings ($),$54.31,1832160
+SC-9_-_General_Large_Low_Tension_Service_[NYC],kWh Savings ($),$21.82,300186.528571429
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),kWh Savings ($),$17.48,588098.42
+Power_and_Light_Medium_Schedule_PLM-11,kWh Savings ($),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,kWh Savings ($),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,kWh Savings ($),$12.47,39552.0875
+OGS-TOU-NEM,kWh Savings ($),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),kWh Savings ($),$16.30,79516.666666667
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,kWh Savings ($),$16.49,24643.8
+LGS-1_-_Large_General_Service,kWh Savings ($),$8.57,15765.20625
+Large_Light_&_Power_-_Primary_voltage_discount,kWh Savings ($),$7.55,0
+GSLD-1_(General_Service_Large_Demand),kWh Savings ($),$12.56,0
+GSEDS-1_Secondary_Non-Demand,kWh Savings ($),$0.00,451835.75625
+GSEDS-1_Secondary_Demand,kWh Savings ($),$9.41,46066.11875
+GSEDS-1_Primary_Non-Demand,kWh Savings ($),$0.00,268996.2625
+GSEDS-1_Primary_Demand,kWh Savings ($),$7.90,21562.35625
+GSDT-1_(General_Service_Demand_-Time-Of-Use),kWh Savings ($),$9.20,218.333333333
+GSD-1_(General_Service_Demand),kWh Savings ($),$10.60,603
+GS-2_(S)_Large_General_Service_Secondary,kWh Savings ($),$11.06,631302.6875
+GS-1_General_Service,kWh Savings ($),$0.00,45007.5
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),kWh Savings ($),$11.00,4613.333333333
+General_Service_With_Demand_Meter_(Rate_Code_25),kWh Savings ($),$5.86,4947
+General_Service_(A14),kWh Savings ($),$14.98,964.642857143
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,kWh Savings ($),$4.12,0
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,kWh Savings ($),$4.16,0
+E-36_Standard_Price_Plan_for_General_Service,kWh Savings ($),$6.76,61005.61875
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,kWh Savings ($),$6.65,215759.71875
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),kWh Savings ($),$33.72,2040083.33333333
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),kWh Savings ($),$17.58,879480
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),kWh Savings ($),$17.58,386279.325
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),kWh Savings ($),$34.72,254471.041666667
+BES-Small_Load_Delivery_Class_(Secondary),kWh Savings ($),$6.18,0
+BES-Medium_Load_Delivery_Class_(Secondary),kWh Savings ($),$6.29,0
+BES-Large_Load_Delivery_Class_(Secondary),kWh Savings ($),$6.73,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),kWh Savings ($),$16.78,333415.891666667
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),kWh Savings ($),$16.78,303249.475
+A-6_Small_General_Service_TOU_Single_Phase,kWh Savings ($),$0.00,1863931.4875
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),kWh Savings ($),$0.00,127047.5
+4B_Large_Power_TOU_(PNM-Owned_Transformer),kWh Savings ($),$17.47,138837.5
+3B_General_Power_TOU_(PNM-Owned_Transformer),kWh Savings ($),$17.47,186380.142857143
+2B_Small_Power_Service_-_TOU,kWh Savings ($),$0.00,64887.6
+2A_(Small_Power_Service),kWh Savings ($),$0.00,32935
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Demand Charge Savings ($),$16.23,353350.5
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Demand Charge Savings ($),$38.02,115416.025
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Demand Charge Savings ($),$15.57,379238.75
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Demand Charge Savings ($),$36.38,192708.75
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Demand Charge Savings ($),$11.05,60440.25
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Demand Charge Savings ($),$34.91,217231.25
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Demand Charge Savings ($),$17.81,137964.25
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Demand Charge Savings ($),$9.97,9577.05
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Demand Charge Savings ($),$30.87,33647.725
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Demand Charge Savings ($),$13.20,16990.675
+Small_General_Time-of-Day_Service_(A12),Demand Charge Savings ($),$0.00,0
+Small_General_Service_Time-Of-Use_(A-1)(B),Demand Charge Savings ($),$7.48,3836.2
+Small_General_Service_Metered_(A10),Demand Charge Savings ($),$0.00,0
+Small_General_Service_(A-1)(A),Demand Charge Savings ($),$7.48,3717.1
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Demand Charge Savings ($),$4.84,5572.5975
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Demand Charge Savings ($),$18.90,5393.4375
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Demand Charge Savings ($),$15.66,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Demand Charge Savings ($),$0.00,0
+Schedule_SMC_-_Small_General_Service_City,Demand Charge Savings ($),$0.00,0
+Schedule_P,Demand Charge Savings ($),$5.31,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Demand Charge Savings ($),$2.32,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Demand Charge Savings ($),$2.32,0
+Schedule_MDD_-_Medium_Network_General_Service,Demand Charge Savings ($),$4.54,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Demand Charge Savings ($),$2.32,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Demand Charge Savings ($),$2.32,0
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Demand Charge Savings ($),$3.83,0
+Schedule_LGC_-_Large_Standard_General_Service_City,Demand Charge Savings ($),$2.08,0
+Schedule_GS_Type_2_(Secondary),Demand Charge Savings ($),$0.00,0
+Schedule_GL_(Secondary_Voltage),Demand Charge Savings ($),$6.15,4371.041666667
+Schedule_G_-_Secondary,Demand Charge Savings ($),$0.00,0
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Demand Charge Savings ($),$41.95,289094.10625
+SC-9_-_General_Large_TOD_Service_[NYC],Demand Charge Savings ($),$54.31,1903495
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Demand Charge Savings ($),$21.82,0
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Demand Charge Savings ($),$17.48,130855.46
+Power_and_Light_Medium_Schedule_PLM-11,Demand Charge Savings ($),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,Demand Charge Savings ($),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Demand Charge Savings ($),$12.47,8863.95
+OGS-TOU-NEM,Demand Charge Savings ($),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Demand Charge Savings ($),$16.30,33680
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Demand Charge Savings ($),$16.49,9467
+LGS-1_-_Large_General_Service,Demand Charge Savings ($),$8.57,4833.6375
+Large_Light_&_Power_-_Primary_voltage_discount,Demand Charge Savings ($),$7.55,0
+GSLD-1_(General_Service_Large_Demand),Demand Charge Savings ($),$12.56,0
+GSEDS-1_Secondary_Non-Demand,Demand Charge Savings ($),$0.00,0
+GSEDS-1_Secondary_Demand,Demand Charge Savings ($),$9.41,10852.59375
+GSEDS-1_Primary_Non-Demand,Demand Charge Savings ($),$0.00,0
+GSEDS-1_Primary_Demand,Demand Charge Savings ($),$7.90,5601.78125
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Demand Charge Savings ($),$9.20,190.666666667
+GSD-1_(General_Service_Demand),Demand Charge Savings ($),$10.60,537.25
+GS-2_(S)_Large_General_Service_Secondary,Demand Charge Savings ($),$11.06,26273.03125
+GS-1_General_Service,Demand Charge Savings ($),$0.00,0
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Demand Charge Savings ($),$11.00,4706.666666667
+General_Service_With_Demand_Meter_(Rate_Code_25),Demand Charge Savings ($),$5.86,1036.5
+General_Service_(A14),Demand Charge Savings ($),$14.98,732.071428571
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Demand Charge Savings ($),$4.12,0
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Demand Charge Savings ($),$4.16,0
+E-36_Standard_Price_Plan_for_General_Service,Demand Charge Savings ($),$6.76,9682.41875
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Demand Charge Savings ($),$6.65,27774.15625
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Demand Charge Savings ($),$33.72,946783.333333333
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),Demand Charge Savings ($),$17.58,125129
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Demand Charge Savings ($),$17.58,66594.05
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Demand Charge Savings ($),$34.72,126170.808333333
+BES-Small_Load_Delivery_Class_(Secondary),Demand Charge Savings ($),$6.18,0
+BES-Medium_Load_Delivery_Class_(Secondary),Demand Charge Savings ($),$6.29,0
+BES-Large_Load_Delivery_Class_(Secondary),Demand Charge Savings ($),$6.73,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Demand Charge Savings ($),$16.78,34782.65
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Demand Charge Savings ($),$16.78,30579.158333333
+A-6_Small_General_Service_TOU_Single_Phase,Demand Charge Savings ($),$0.00,0
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Demand Charge Savings ($),$0.00,0
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Demand Charge Savings ($),$17.47,60801.5
+3B_General_Power_TOU_(PNM-Owned_Transformer),Demand Charge Savings ($),$17.47,50086.35
+2B_Small_Power_Service_-_TOU,Demand Charge Savings ($),$0.00,0
+2A_(Small_Power_Service),Demand Charge Savings ($),$0.00,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),NPV ($),$16.23,1421200
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),NPV ($),$38.02,591068
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),NPV ($),$15.57,2263820
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),NPV ($),$36.38,251168
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),NPV ($),$11.05,553223
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),NPV ($),$34.91,360939
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),NPV ($),$17.81,469886
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,NPV ($),$9.97,333722.6
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,NPV ($),$30.87,133972.5
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,NPV ($),$13.20,273733.6
+Small_General_Time-of-Day_Service_(A12),NPV ($),$0.00,2341.6
+Small_General_Service_Time-Of-Use_(A-1)(B),NPV ($),$7.48,12496.4
+Small_General_Service_Metered_(A10),NPV ($),$0.00,173120.1
+Small_General_Service_(A-1)(A),NPV ($),$7.48,7901
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,NPV ($),$4.84,186793.6
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,NPV ($),$18.90,4917
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,NPV ($),$15.66,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,NPV ($),$0.00,-1.9
+Schedule_SMC_-_Small_General_Service_City,NPV ($),$0.00,0
+Schedule_P,NPV ($),$5.31,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,NPV ($),$2.32,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,NPV ($),$2.32,0
+Schedule_MDD_-_Medium_Network_General_Service,NPV ($),$4.54,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,NPV ($),$2.32,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,NPV ($),$2.32,0
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),NPV ($),$3.83,0
+Schedule_LGC_-_Large_Standard_General_Service_City,NPV ($),$2.08,0
+Schedule_GS_Type_2_(Secondary),NPV ($),$0.00,2205.2
+Schedule_GL_(Secondary_Voltage),NPV ($),$6.15,8627
+Schedule_G_-_Secondary,NPV ($),$0.00,897832.2
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],NPV ($),$41.95,1403312.1
+SC-9_-_General_Large_TOD_Service_[NYC],NPV ($),$54.31,1109700
+SC-9_-_General_Large_Low_Tension_Service_[NYC],NPV ($),$21.82,547142.9
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),NPV ($),$17.48,1840595
+Power_and_Light_Medium_Schedule_PLM-11,NPV ($),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,NPV ($),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,NPV ($),$12.47,16832.3
+OGS-TOU-NEM,NPV ($),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),NPV ($),$16.30,6590
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,NPV ($),$16.49,5204
+LGS-1_-_Large_General_Service,NPV ($),$8.57,15168
+Large_Light_&_Power_-_Primary_voltage_discount,NPV ($),$7.55,0
+GSLD-1_(General_Service_Large_Demand),NPV ($),$12.56,0
+GSEDS-1_Secondary_Non-Demand,NPV ($),$0.00,796317.8
+GSEDS-1_Secondary_Demand,NPV ($),$9.41,40441
+GSEDS-1_Primary_Non-Demand,NPV ($),$0.00,205139.4
+GSEDS-1_Primary_Demand,NPV ($),$7.90,19017.9
+GSDT-1_(General_Service_Demand_-Time-Of-Use),NPV ($),$9.20,77
+GSD-1_(General_Service_Demand),NPV ($),$10.60,439
+GS-2_(S)_Large_General_Service_Secondary,NPV ($),$11.06,1707220
+GS-1_General_Service,NPV ($),$0.00,12507.4
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),NPV ($),$11.00,270
+General_Service_With_Demand_Meter_(Rate_Code_25),NPV ($),$5.86,1473
+General_Service_(A14),NPV ($),$14.98,943
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,NPV ($),$4.12,0
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,NPV ($),$4.16,0
+E-36_Standard_Price_Plan_for_General_Service,NPV ($),$6.76,34789.8
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,NPV ($),$6.65,168349.6
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),NPV ($),$33.72,1612750
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),NPV ($),$17.58,236940
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),NPV ($),$17.58,1456003.8
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),NPV ($),$34.72,914008.6
+BES-Small_Load_Delivery_Class_(Secondary),NPV ($),$6.18,0
+BES-Medium_Load_Delivery_Class_(Secondary),NPV ($),$6.29,0
+BES-Large_Load_Delivery_Class_(Secondary),NPV ($),$6.73,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),NPV ($),$16.78,1198643.2
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),NPV ($),$16.78,1033329.4
+A-6_Small_General_Service_TOU_Single_Phase,NPV ($),$0.00,10912359
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),NPV ($),$0.00,216251.3
+4B_Large_Power_TOU_(PNM-Owned_Transformer),NPV ($),$17.47,47620
+3B_General_Power_TOU_(PNM-Owned_Transformer),NPV ($),$17.47,240718.1
+2B_Small_Power_Service_-_TOU,NPV ($),$0.00,19410.4
+2A_(Small_Power_Service),NPV ($),$0.00,4956
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Capital Cost ($),$16.23,4187558
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Capital Cost ($),$38.02,1713240.7
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Capital Cost ($),$15.57,4594867
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Capital Cost ($),$36.38,864962
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Capital Cost ($),$11.05,1073723
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Capital Cost ($),$34.91,1074093
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Capital Cost ($),$17.81,1181186
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Capital Cost ($),$9.97,512417
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Capital Cost ($),$30.87,484073.7
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Capital Cost ($),$13.20,535140.9
+Small_General_Time-of-Day_Service_(A12),Capital Cost ($),$0.00,14782.9
+Small_General_Service_Time-Of-Use_(A-1)(B),Capital Cost ($),$7.48,20645.2
+Small_General_Service_Metered_(A10),Capital Cost ($),$0.00,2251893.7
+Small_General_Service_(A-1)(A),Capital Cost ($),$7.48,19180.4
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Capital Cost ($),$4.84,987849.66
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Capital Cost ($),$18.90,66029.096
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Capital Cost ($),$15.66,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Capital Cost ($),$0.00,0
+Schedule_SMC_-_Small_General_Service_City,Capital Cost ($),$0.00,0
+Schedule_P,Capital Cost ($),$5.31,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Capital Cost ($),$2.32,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Capital Cost ($),$2.32,0
+Schedule_MDD_-_Medium_Network_General_Service,Capital Cost ($),$4.54,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Capital Cost ($),$2.32,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Capital Cost ($),$2.32,0
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Capital Cost ($),$3.83,0
+Schedule_LGC_-_Large_Standard_General_Service_City,Capital Cost ($),$2.08,0
+Schedule_GS_Type_2_(Secondary),Capital Cost ($),$0.00,26250.08
+Schedule_GL_(Secondary_Voltage),Capital Cost ($),$6.15,183068.785
+Schedule_G_-_Secondary,Capital Cost ($),$0.00,4086075.7
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Capital Cost ($),$41.95,6020637
+SC-9_-_General_Large_TOD_Service_[NYC],Capital Cost ($),$54.31,3568240
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Capital Cost ($),$21.82,2052448.9
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Capital Cost ($),$17.48,4862681.7
+Power_and_Light_Medium_Schedule_PLM-11,Capital Cost ($),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,Capital Cost ($),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Capital Cost ($),$12.47,457270.11
+OGS-TOU-NEM,Capital Cost ($),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Capital Cost ($),$16.30,201198.8
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Capital Cost ($),$16.49,99267.96
+LGS-1_-_Large_General_Service,Capital Cost ($),$8.57,187020.126
+Large_Light_&_Power_-_Primary_voltage_discount,Capital Cost ($),$7.55,0
+GSLD-1_(General_Service_Large_Demand),Capital Cost ($),$12.56,0
+GSEDS-1_Secondary_Non-Demand,Capital Cost ($),$0.00,3666756.71
+GSEDS-1_Secondary_Demand,Capital Cost ($),$9.41,518164.71
+GSEDS-1_Primary_Non-Demand,Capital Cost ($),$0.00,2435654.29
+GSEDS-1_Primary_Demand,Capital Cost ($),$7.90,247564.181
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Capital Cost ($),$9.20,2923.6
+GSD-1_(General_Service_Demand),Capital Cost ($),$10.60,7940.124
+GS-2_(S)_Large_General_Service_Secondary,Capital Cost ($),$11.06,4821262.6
+GS-1_General_Service,Capital Cost ($),$0.00,43221
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Capital Cost ($),$11.00,16823.2
+General_Service_With_Demand_Meter_(Rate_Code_25),Capital Cost ($),$5.86,57083.4
+General_Service_(A14),Capital Cost ($),$14.98,13624.16
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Capital Cost ($),$4.12,0
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Capital Cost ($),$4.16,0
+E-36_Standard_Price_Plan_for_General_Service,Capital Cost ($),$6.76,657994.322
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Capital Cost ($),$6.65,2221422.12
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Capital Cost ($),$33.72,3995690
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),Capital Cost ($),$17.58,397346
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Capital Cost ($),$17.58,1972527.9
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Capital Cost ($),$34.72,1955534
+BES-Small_Load_Delivery_Class_(Secondary),Capital Cost ($),$6.18,0
+BES-Medium_Load_Delivery_Class_(Secondary),Capital Cost ($),$6.29,0
+BES-Large_Load_Delivery_Class_(Secondary),Capital Cost ($),$6.73,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Capital Cost ($),$16.78,1576618.1
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Capital Cost ($),$16.78,1477301
+A-6_Small_General_Service_TOU_Single_Phase,Capital Cost ($),$0.00,8043032.1
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Capital Cost ($),$0.00,184761.9
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Capital Cost ($),$17.47,442942.3
+3B_General_Power_TOU_(PNM-Owned_Transformer),Capital Cost ($),$17.47,1795559.18
+2B_Small_Power_Service_-_TOU,Capital Cost ($),$0.00,21389.9
+2A_(Small_Power_Service),Capital Cost ($),$0.00,15457
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Battery Power (kW),$16.23,74.1893
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Battery Power (kW),$38.02,16.888044167
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Battery Power (kW),$15.57,94.727875
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Battery Power (kW),$36.38,24.889425
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Battery Power (kW),$11.05,0
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Battery Power (kW),$34.91,27.551225
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Battery Power (kW),$17.81,22.75725
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Battery Power (kW),$9.97,0.103569625
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Battery Power (kW),$30.87,4.9359975
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Battery Power (kW),$13.20,3.358925375
+Small_General_Time-of-Day_Service_(A12),Battery Power (kW),$0.00,0
+Small_General_Service_Time-Of-Use_(A-1)(B),Battery Power (kW),$7.48,0
+Small_General_Service_Metered_(A10),Battery Power (kW),$0.00,0
+Small_General_Service_(A-1)(A),Battery Power (kW),$7.48,0
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Battery Power (kW),$4.84,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Battery Power (kW),$18.90,1.668004625
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Battery Power (kW),$15.66,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Battery Power (kW),$0.00,0
+Schedule_SMC_-_Small_General_Service_City,Battery Power (kW),$0.00,0
+Schedule_P,Battery Power (kW),$5.31,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Battery Power (kW),$2.32,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Battery Power (kW),$2.32,0
+Schedule_MDD_-_Medium_Network_General_Service,Battery Power (kW),$4.54,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Battery Power (kW),$2.32,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Battery Power (kW),$2.32,0
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Battery Power (kW),$3.83,0
+Schedule_LGC_-_Large_Standard_General_Service_City,Battery Power (kW),$2.08,0
+Schedule_GS_Type_2_(Secondary),Battery Power (kW),$0.00,0
+Schedule_GL_(Secondary_Voltage),Battery Power (kW),$6.15,0
+Schedule_G_-_Secondary,Battery Power (kW),$0.00,0
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Battery Power (kW),$41.95,55.146089375
+SC-9_-_General_Large_TOD_Service_[NYC],Battery Power (kW),$54.31,270.735
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Battery Power (kW),$21.82,0
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Battery Power (kW),$17.48,6.295858
+Power_and_Light_Medium_Schedule_PLM-11,Battery Power (kW),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,Battery Power (kW),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Battery Power (kW),$12.47,0
+OGS-TOU-NEM,Battery Power (kW),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Battery Power (kW),$16.30,0
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Battery Power (kW),$16.49,0
+LGS-1_-_Large_General_Service,Battery Power (kW),$8.57,0
+Large_Light_&_Power_-_Primary_voltage_discount,Battery Power (kW),$7.55,0
+GSLD-1_(General_Service_Large_Demand),Battery Power (kW),$12.56,0
+GSEDS-1_Secondary_Non-Demand,Battery Power (kW),$0.00,0
+GSEDS-1_Secondary_Demand,Battery Power (kW),$9.41,0
+GSEDS-1_Primary_Non-Demand,Battery Power (kW),$0.00,0
+GSEDS-1_Primary_Demand,Battery Power (kW),$7.90,0
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Battery Power (kW),$9.20,0
+GSD-1_(General_Service_Demand),Battery Power (kW),$10.60,0
+GS-2_(S)_Large_General_Service_Secondary,Battery Power (kW),$11.06,0
+GS-1_General_Service,Battery Power (kW),$0.00,0
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Battery Power (kW),$11.00,0
+General_Service_With_Demand_Meter_(Rate_Code_25),Battery Power (kW),$5.86,0
+General_Service_(A14),Battery Power (kW),$14.98,0
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Battery Power (kW),$4.12,0
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Battery Power (kW),$4.16,0
+E-36_Standard_Price_Plan_for_General_Service,Battery Power (kW),$6.76,0
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Battery Power (kW),$6.65,0
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Battery Power (kW),$33.72,153.712633333
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),Battery Power (kW),$17.58,69.74
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Battery Power (kW),$17.58,19.072856667
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Battery Power (kW),$34.72,22.479374167
+BES-Small_Load_Delivery_Class_(Secondary),Battery Power (kW),$6.18,0
+BES-Medium_Load_Delivery_Class_(Secondary),Battery Power (kW),$6.29,0
+BES-Large_Load_Delivery_Class_(Secondary),Battery Power (kW),$6.73,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Battery Power (kW),$16.78,4.938758333
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Battery Power (kW),$16.78,2.245399333
+A-6_Small_General_Service_TOU_Single_Phase,Battery Power (kW),$0.00,41.5231625
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Battery Power (kW),$0.00,0
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Battery Power (kW),$17.47,0
+3B_General_Power_TOU_(PNM-Owned_Transformer),Battery Power (kW),$17.47,0
+2B_Small_Power_Service_-_TOU,Battery Power (kW),$0.00,0
+2A_(Small_Power_Service),Battery Power (kW),$0.00,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Battery Capacity (kWh),$16.23,145.573825
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Battery Capacity (kWh),$38.02,44.378500833
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Battery Capacity (kWh),$15.57,233.731125
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Battery Capacity (kWh),$36.38,53.401375
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Battery Capacity (kWh),$11.05,0
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Battery Capacity (kWh),$34.91,68.00235
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Battery Capacity (kWh),$17.81,51.013825
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Battery Capacity (kWh),$9.97,0.25892375
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Battery Capacity (kWh),$30.87,10.39299125
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Battery Capacity (kWh),$13.20,7.499825
+Small_General_Time-of-Day_Service_(A12),Battery Capacity (kWh),$0.00,0
+Small_General_Service_Time-Of-Use_(A-1)(B),Battery Capacity (kWh),$7.48,0
+Small_General_Service_Metered_(A10),Battery Capacity (kWh),$0.00,0
+Small_General_Service_(A-1)(A),Battery Capacity (kWh),$7.48,0
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Battery Capacity (kWh),$4.84,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Battery Capacity (kWh),$18.90,2.085001
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Battery Capacity (kWh),$15.66,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Battery Capacity (kWh),$0.00,0
+Schedule_SMC_-_Small_General_Service_City,Battery Capacity (kWh),$0.00,0
+Schedule_P,Battery Capacity (kWh),$5.31,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Battery Capacity (kWh),$2.32,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Battery Capacity (kWh),$2.32,0
+Schedule_MDD_-_Medium_Network_General_Service,Battery Capacity (kWh),$4.54,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Battery Capacity (kWh),$2.32,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Battery Capacity (kWh),$2.32,0
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Battery Capacity (kWh),$3.83,0
+Schedule_LGC_-_Large_Standard_General_Service_City,Battery Capacity (kWh),$2.08,0
+Schedule_GS_Type_2_(Secondary),Battery Capacity (kWh),$0.00,0
+Schedule_GL_(Secondary_Voltage),Battery Capacity (kWh),$6.15,0
+Schedule_G_-_Secondary,Battery Capacity (kWh),$0.00,0
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Battery Capacity (kWh),$41.95,159.604849375
+SC-9_-_General_Large_TOD_Service_[NYC],Battery Capacity (kWh),$54.31,839.8985
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Battery Capacity (kWh),$21.82,0
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Battery Capacity (kWh),$17.48,7.869813667
+Power_and_Light_Medium_Schedule_PLM-11,Battery Capacity (kWh),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,Battery Capacity (kWh),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Battery Capacity (kWh),$12.47,0
+OGS-TOU-NEM,Battery Capacity (kWh),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Battery Capacity (kWh),$16.30,0
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Battery Capacity (kWh),$16.49,0
+LGS-1_-_Large_General_Service,Battery Capacity (kWh),$8.57,0
+Large_Light_&_Power_-_Primary_voltage_discount,Battery Capacity (kWh),$7.55,0
+GSLD-1_(General_Service_Large_Demand),Battery Capacity (kWh),$12.56,0
+GSEDS-1_Secondary_Non-Demand,Battery Capacity (kWh),$0.00,0
+GSEDS-1_Secondary_Demand,Battery Capacity (kWh),$9.41,0
+GSEDS-1_Primary_Non-Demand,Battery Capacity (kWh),$0.00,0
+GSEDS-1_Primary_Demand,Battery Capacity (kWh),$7.90,0
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Battery Capacity (kWh),$9.20,0
+GSD-1_(General_Service_Demand),Battery Capacity (kWh),$10.60,0
+GS-2_(S)_Large_General_Service_Secondary,Battery Capacity (kWh),$11.06,0
+GS-1_General_Service,Battery Capacity (kWh),$0.00,0
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Battery Capacity (kWh),$11.00,0
+General_Service_With_Demand_Meter_(Rate_Code_25),Battery Capacity (kWh),$5.86,0
+General_Service_(A14),Battery Capacity (kWh),$14.98,0
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Battery Capacity (kWh),$4.12,0
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Battery Capacity (kWh),$4.16,0
+E-36_Standard_Price_Plan_for_General_Service,Battery Capacity (kWh),$6.76,0
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Battery Capacity (kWh),$6.65,0
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Battery Capacity (kWh),$33.72,419.471333333
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),Battery Capacity (kWh),$17.58,235.143
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Battery Capacity (kWh),$17.58,67.534009167
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Battery Capacity (kWh),$34.72,74.877076667
+BES-Small_Load_Delivery_Class_(Secondary),Battery Capacity (kWh),$6.18,0
+BES-Medium_Load_Delivery_Class_(Secondary),Battery Capacity (kWh),$6.29,0
+BES-Large_Load_Delivery_Class_(Secondary),Battery Capacity (kWh),$6.73,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Battery Capacity (kWh),$16.78,10.509950167
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Battery Capacity (kWh),$16.78,2.896426
+A-6_Small_General_Service_TOU_Single_Phase,Battery Capacity (kWh),$0.00,240.86723875
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Battery Capacity (kWh),$0.00,0
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Battery Capacity (kWh),$17.47,0
+3B_General_Power_TOU_(PNM-Owned_Transformer),Battery Capacity (kWh),$17.47,0
+2B_Small_Power_Service_-_TOU,Battery Capacity (kWh),$0.00,0
+2A_(Small_Power_Service),Battery Capacity (kWh),$0.00,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),PV Size (kW),$16.23,1409.40575
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),PV Size (kW),$38.02,176.395908333
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),PV Size (kW),$15.57,1507.06125
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),PV Size (kW),$36.38,272.43925
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),PV Size (kW),$11.05,395.60125
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),PV Size (kW),$34.91,341.67175
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),PV Size (kW),$17.81,392.20325
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,PV Size (kW),$9.97,94.1925375
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,PV Size (kW),$30.87,80.06825
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,PV Size (kW),$13.20,92.247425
+Small_General_Time-of-Day_Service_(A12),PV Size (kW),$0.00,21.7863
+Small_General_Service_Time-Of-Use_(A-1)(B),PV Size (kW),$7.48,30.4259
+Small_General_Service_Metered_(A10),PV Size (kW),$0.00,207.421016875
+Small_General_Service_(A-1)(A),PV Size (kW),$7.48,28.2672
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,PV Size (kW),$4.84,121.3206375
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,PV Size (kW),$18.90,3.465543925
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,PV Size (kW),$15.66,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,PV Size (kW),$0.00,0
+Schedule_SMC_-_Small_General_Service_City,PV Size (kW),$0.00,0
+Schedule_P,PV Size (kW),$5.31,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,PV Size (kW),$2.32,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,PV Size (kW),$2.32,0
+Schedule_MDD_-_Medium_Network_General_Service,PV Size (kW),$4.54,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,PV Size (kW),$2.32,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,PV Size (kW),$2.32,0
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),PV Size (kW),$3.83,0
+Schedule_LGC_-_Large_Standard_General_Service_City,PV Size (kW),$2.08,0
+Schedule_GS_Type_2_(Secondary),PV Size (kW),$0.00,19.343095
+Schedule_GL_(Secondary_Voltage),PV Size (kW),$6.15,22.483201667
+Schedule_G_-_Secondary,PV Size (kW),$0.00,376.36780625
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],PV Size (kW),$41.95,438.74741875
+SC-9_-_General_Large_TOD_Service_[NYC],PV Size (kW),$54.31,2042.575
+SC-9_-_General_Large_Low_Tension_Service_[NYC],PV Size (kW),$21.82,216.057421429
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),PV Size (kW),$17.48,467.88398
+Power_and_Light_Medium_Schedule_PLM-11,PV Size (kW),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,PV Size (kW),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,PV Size (kW),$12.47,42.11898
+OGS-TOU-NEM,PV Size (kW),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),PV Size (kW),$16.30,98.839
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,PV Size (kW),$16.49,29.25934
+LGS-1_-_Large_General_Service,PV Size (kW),$8.57,17.226343438
+Large_Light_&_Power_-_Primary_voltage_discount,PV Size (kW),$7.55,0
+GSLD-1_(General_Service_Large_Demand),PV Size (kW),$12.56,0
+GSEDS-1_Secondary_Non-Demand,PV Size (kW),$0.00,337.74391875
+GSEDS-1_Secondary_Demand,PV Size (kW),$9.41,47.72797375
+GSEDS-1_Primary_Non-Demand,PV Size (kW),$0.00,224.347071875
+GSEDS-1_Primary_Demand,PV Size (kW),$7.90,22.803013437
+GSDT-1_(General_Service_Demand_-Time-Of-Use),PV Size (kW),$9.20,0.359055833
+GSD-1_(General_Service_Demand),PV Size (kW),$10.60,0.975148
+GS-2_(S)_Large_General_Service_Secondary,PV Size (kW),$11.06,444.0852375
+GS-1_General_Service,PV Size (kW),$0.00,31.8485
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),PV Size (kW),$11.00,8.264433333
+General_Service_With_Demand_Meter_(Rate_Code_25),PV Size (kW),$5.86,5.25793125
+General_Service_(A14),PV Size (kW),$14.98,1.434192143
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,PV Size (kW),$4.12,0
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,PV Size (kW),$4.16,0
+E-36_Standard_Price_Plan_for_General_Service,PV Size (kW),$6.76,60.607652125
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,PV Size (kW),$6.65,204.614253125
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),PV Size (kW),$33.72,1648.288
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),PV Size (kW),$17.58,428.366
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),PV Size (kW),$17.58,198.210166667
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),PV Size (kW),$34.72,189.782516667
+BES-Small_Load_Delivery_Class_(Secondary),PV Size (kW),$6.18,0
+BES-Medium_Load_Delivery_Class_(Secondary),PV Size (kW),$6.29,0
+BES-Large_Load_Delivery_Class_(Secondary),PV Size (kW),$6.73,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),PV Size (kW),$16.78,184.480316667
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),PV Size (kW),$16.78,177.8804
+A-6_Small_General_Service_TOU_Single_Phase,PV Size (kW),$0.00,614.62395
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),PV Size (kW),$0.00,54.45868
+4B_Large_Power_TOU_(PNM-Owned_Transformer),PV Size (kW),$17.47,163.1971
+3B_General_Power_TOU_(PNM-Owned_Transformer),PV Size (kW),$17.47,189.015075714
+2B_Small_Power_Service_-_TOU,PV Size (kW),$0.00,31.5235
+2A_(Small_Power_Service),PV Size (kW),$0.00,22.7798
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Demand Cost (without system),$16.23,7357930
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Demand Cost (without system),$38.02,4800248.1
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Demand Cost (without system),$15.57,7058720
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Demand Cost (without system),$36.38,3101611
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Demand Cost (without system),$11.05,1408374
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Demand Cost (without system),$34.91,3089649
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Demand Cost (without system),$17.81,2269969
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Demand Cost (without system),$9.97,635896.8
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Demand Cost (without system),$30.87,1331819
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Demand Cost (without system),$13.20,841910.6
+Small_General_Time-of-Day_Service_(A12),Demand Cost (without system),$0.00,0
+Small_General_Service_Time-Of-Use_(A-1)(B),Demand Cost (without system),$7.48,17925.7
+Small_General_Service_Metered_(A10),Demand Cost (without system),$0.00,0
+Small_General_Service_(A-1)(A),Demand Cost (without system),$7.48,17925.7
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Demand Cost (without system),$4.84,939175.1
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Demand Cost (without system),$18.90,10621271.8
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Demand Cost (without system),$15.66,7522045.8
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Demand Cost (without system),$0.00,0
+Schedule_SMC_-_Small_General_Service_City,Demand Cost (without system),$0.00,0
+Schedule_P,Demand Cost (without system),$5.31,1748925
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Demand Cost (without system),$2.32,654467.4
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Demand Cost (without system),$2.32,654467.4
+Schedule_MDD_-_Medium_Network_General_Service,Demand Cost (without system),$4.54,1280725.4
+Schedule_MDC_-_Medium_Standard_General_Service_City,Demand Cost (without system),$2.32,654467.4
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Demand Cost (without system),$2.32,654467.4
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Demand Cost (without system),$3.83,1120320
+Schedule_LGC_-_Large_Standard_General_Service_City,Demand Cost (without system),$2.08,652650
+Schedule_GS_Type_2_(Secondary),Demand Cost (without system),$0.00,0
+Schedule_GL_(Secondary_Voltage),Demand Cost (without system),$6.15,2091297.2
+Schedule_G_-_Secondary,Demand Cost (without system),$0.00,0
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Demand Cost (without system),$41.95,20829230.1
+SC-9_-_General_Large_TOD_Service_[NYC],Demand Cost (without system),$54.31,14476830
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Demand Cost (without system),$21.82,0
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Demand Cost (without system),$17.48,9662332.2
+Power_and_Light_Medium_Schedule_PLM-11,Demand Cost (without system),$0.00,0
+Power_and_Light_Large_Schedule_PLL-11,Demand Cost (without system),$0.00,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Demand Cost (without system),$12.47,5211788.9
+OGS-TOU-NEM,Demand Cost (without system),$0.00,0
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Demand Cost (without system),$16.30,4607960
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Demand Cost (without system),$16.49,1859821
+LGS-1_-_Large_General_Service,Demand Cost (without system),$8.57,5962838.4
+Large_Light_&_Power_-_Primary_voltage_discount,Demand Cost (without system),$7.55,0
+GSLD-1_(General_Service_Large_Demand),Demand Cost (without system),$12.56,4577460
+GSEDS-1_Secondary_Non-Demand,Demand Cost (without system),$0.00,0
+GSEDS-1_Secondary_Demand,Demand Cost (without system),$9.41,5674995.2
+GSEDS-1_Primary_Non-Demand,Demand Cost (without system),$0.00,0
+GSEDS-1_Primary_Demand,Demand Cost (without system),$7.90,4762782.8
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Demand Cost (without system),$9.20,2410589.1
+GSD-1_(General_Service_Demand),Demand Cost (without system),$10.60,2464435.4
+GS-2_(S)_Large_General_Service_Secondary,Demand Cost (without system),$11.06,6489183
+GS-1_General_Service,Demand Cost (without system),$0.00,0
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Demand Cost (without system),$11.00,4507270
+General_Service_With_Demand_Meter_(Rate_Code_25),Demand Cost (without system),$5.86,3735081.8
+General_Service_(A14),Demand Cost (without system),$14.98,3773250.2
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Demand Cost (without system),$4.12,928713
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Demand Cost (without system),$4.16,1001697
+E-36_Standard_Price_Plan_for_General_Service,Demand Cost (without system),$6.76,3635040.2
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Demand Cost (without system),$6.65,4544528.8
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Demand Cost (without system),$33.72,9977520
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),Demand Cost (without system),$17.58,804572
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Demand Cost (without system),$17.58,2951492.6
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Demand Cost (without system),$34.72,4843261.5
+BES-Small_Load_Delivery_Class_(Secondary),Demand Cost (without system),$6.18,4029472
+BES-Medium_Load_Delivery_Class_(Secondary),Demand Cost (without system),$6.29,4101198.9
+BES-Large_Load_Delivery_Class_(Secondary),Demand Cost (without system),$6.73,4388088.2
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Demand Cost (without system),$16.78,2285417.1
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Demand Cost (without system),$16.78,2285417.1
+A-6_Small_General_Service_TOU_Single_Phase,Demand Cost (without system),$0.00,0
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Demand Cost (without system),$0.00,0
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Demand Cost (without system),$17.47,3591806.4
+3B_General_Power_TOU_(PNM-Owned_Transformer),Demand Cost (without system),$17.47,7959048.1
+2B_Small_Power_Service_-_TOU,Demand Cost (without system),$0.00,0
+2A_(Small_Power_Service),Demand Cost (without system),$0.00,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Energy Cost (without system),$16.23,17243770
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Energy Cost (without system),$38.02,5865636.9
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Energy Cost (without system),$15.57,19540910
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Energy Cost (without system),$36.38,3265845
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Energy Cost (without system),$11.05,5268179
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Energy Cost (without system),$34.91,3761411
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Energy Cost (without system),$17.81,4477418
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Energy Cost (without system),$9.97,2951765.6
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Energy Cost (without system),$30.87,2030418.3
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Energy Cost (without system),$13.20,2636343.7
+Small_General_Time-of-Day_Service_(A12),Energy Cost (without system),$0.00,85085.8
+Small_General_Service_Time-Of-Use_(A-1)(B),Energy Cost (without system),$7.48,108076
+Small_General_Service_Metered_(A10),Energy Cost (without system),$0.00,25623002.9
+Small_General_Service_(A-1)(A),Energy Cost (without system),$7.48,97116.1
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Energy Cost (without system),$4.84,7185489.8
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Energy Cost (without system),$18.90,8833185.1
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Energy Cost (without system),$15.66,16826311.2
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Energy Cost (without system),$0.00,23006076.7
+Schedule_SMC_-_Small_General_Service_City,Energy Cost (without system),$0.00,193491.4
+Schedule_P,Energy Cost (without system),$5.31,10020200
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Energy Cost (without system),$2.32,7671698
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Energy Cost (without system),$2.32,7692510
+Schedule_MDD_-_Medium_Network_General_Service,Energy Cost (without system),$4.54,8660576
+Schedule_MDC_-_Medium_Standard_General_Service_City,Energy Cost (without system),$2.32,7026312
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Energy Cost (without system),$2.32,7432280
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Energy Cost (without system),$3.83,9719390
+Schedule_LGC_-_Large_Standard_General_Service_City,Energy Cost (without system),$2.08,8158040
+Schedule_GS_Type_2_(Secondary),Energy Cost (without system),$0.00,255493.3
+Schedule_GL_(Secondary_Voltage),Energy Cost (without system),$6.15,9928137
+Schedule_G_-_Secondary,Energy Cost (without system),$0.00,32176251
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Energy Cost (without system),$41.95,25030936.6
+SC-9_-_General_Large_TOD_Service_[NYC],Energy Cost (without system),$54.31,11563560
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Energy Cost (without system),$21.82,15972482.5
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Energy Cost (without system),$17.48,24377455
+Power_and_Light_Medium_Schedule_PLM-11,Energy Cost (without system),$0.00,3794076.4
+Power_and_Light_Large_Schedule_PLL-11,Energy Cost (without system),$0.00,10863110
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Energy Cost (without system),$12.47,17729603.6
+OGS-TOU-NEM,Energy Cost (without system),$0.00,18094768.9
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Energy Cost (without system),$16.30,8867410
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Energy Cost (without system),$16.49,4314577
+LGS-1_-_Large_General_Service,Energy Cost (without system),$8.57,16531290.4
+Large_Light_&_Power_-_Primary_voltage_discount,Energy Cost (without system),$7.55,16265001
+GSLD-1_(General_Service_Large_Demand),Energy Cost (without system),$12.56,7122870
+GSEDS-1_Secondary_Non-Demand,Energy Cost (without system),$0.00,28140269.2
+GSEDS-1_Secondary_Demand,Energy Cost (without system),$9.41,19148647.2
+GSEDS-1_Primary_Non-Demand,Energy Cost (without system),$0.00,24013468.9
+GSEDS-1_Primary_Demand,Energy Cost (without system),$7.90,18742277
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Energy Cost (without system),$9.20,4684656.5
+GSD-1_(General_Service_Demand),Energy Cost (without system),$10.60,4595893.8
+GS-2_(S)_Large_General_Service_Secondary,Energy Cost (without system),$11.06,44066240
+GS-1_General_Service,Energy Cost (without system),$0.00,424966
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Energy Cost (without system),$11.00,7178980
+General_Service_With_Demand_Meter_(Rate_Code_25),Energy Cost (without system),$5.86,20250159.8
+General_Service_(A14),Energy Cost (without system),$14.98,6870861.3
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Energy Cost (without system),$4.12,8923360
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Energy Cost (without system),$4.16,8995640
+E-36_Standard_Price_Plan_for_General_Service,Energy Cost (without system),$6.76,19560039.6
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Energy Cost (without system),$6.65,22372161.3
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Energy Cost (without system),$33.72,14210720
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),Energy Cost (without system),$17.58,2429340
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Energy Cost (without system),$17.58,9133139.6
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Energy Cost (without system),$34.72,7026045.3
+BES-Small_Load_Delivery_Class_(Secondary),Energy Cost (without system),$6.18,17314683.7
+BES-Medium_Load_Delivery_Class_(Secondary),Energy Cost (without system),$6.29,17314683.7
+BES-Large_Load_Delivery_Class_(Secondary),Energy Cost (without system),$6.73,17314683.7
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Energy Cost (without system),$16.78,9745892
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Energy Cost (without system),$16.78,9697105
+A-6_Small_General_Service_TOU_Single_Phase,Energy Cost (without system),$0.00,55912308
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Energy Cost (without system),$0.00,1861985
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Energy Cost (without system),$17.47,9317860
+3B_General_Power_TOU_(PNM-Owned_Transformer),Energy Cost (without system),$17.47,15310341
+2B_Small_Power_Service_-_TOU,Energy Cost (without system),$0.00,117324
+2A_(Small_Power_Service),Energy Cost (without system),$0.00,89940.7
