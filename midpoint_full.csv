@@ -1,0 +1,691 @@
+Rate,Building Type,City,Cost Point Selector,Battery Capacity (kWh),Battery Power (kW),BAU Demand Cost,BAU Energy Cost,Capital Cost ($),Max Demand Rate ($/kW),Npv ($),PV Size (kW),Total Demand Savings ($),Total kWh Savings ($)
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Hospital,Los Angeles,1,263 kWh,119 kW,2284920,7236560,"$1,291K",$17.48,$1M,"2,114 kW",513700,2731480
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Supermarket,Seattle,1,0 kWh,0 kW,84094.8,1194410,$0K,$2.32,$0M,0 kW,0,0
+BES-Large_Load_Delivery_Class_(Secondary),Hospital,Chicago,1,0 kWh,0 kW,1025220,5216790,$0K,$6.73,$0M,0 kW,0,0
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Restaurant,Los Angeles,1,9 kWh,4 kW,97555.1,298486,$48K,$17.48,$0M,80 kW,22243.2,105042
+General_Service_With_Demand_Meter_(Rate_Code_25),Restaurant,Minneapolis,1,0 kWh,0 kW,34934.7,237610,$28K,$5.86,$0M,50 kW,1039,47135
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Restaurant,New York,1,0 kWh,0 kW,0,395597,$45K,$21.82,$0M,82 kW,0,114328
+BES-Medium_Load_Delivery_Class_(Secondary),Midrise Apartment,Chicago,1,0 kWh,0 kW,38099.2,161657,$0K,$6.29,$0M,0 kW,0,0
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Restaurant,New York,1,36 kWh,11 kW,202690,289750,$59K,$41.95,$0M,81 kW,37692,86126
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Medium Office,Los Angeles,1,35 kWh,17 kW,344496,736716,$173K,$17.48,$0M,282 kW,105166,326100
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Large Hotel,Seattle,1,0 kWh,0 kW,110902,1366060,$0K,$2.32,$0M,0 kW,0,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Secondary School,Seattle,1,0 kWh,0 kW,147362,1458990,$0K,$2.32,$0M,0 kW,0,0
+LGS-1_-_Large_General_Service,Hospital,LasVegas,1,0 kWh,0 kW,1359410,4836860,$776K,$8.57,$0M,"1,412 kW",96570,1286440
+General_Service_(A14),Primary School,Duluth,1,0 kWh,0 kW,300907,519891,$22K,$14.98,$0M,40 kW,12853,27101
+Schedule_MDC_-_Medium_Standard_General_Service_City,Small Hotel,Seattle,1,0 kWh,0 kW,33745.1,405061,$0K,$2.32,$0M,0 kW,0,0
+LGS-1_-_Large_General_Service,Strip Mall,LasVegas,1,0 kWh,0 kW,121617,293090,$62K,$8.57,$0M,112 kW,10486,100527
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Strip Mall,San Francisco,1,129 kWh,27 kW,326085,429916,$146K,$34.72,$0M,187 kW,139272,252938
+LGS-1_-_Large_General_Service,Small Office,LasVegas,1,0 kWh,0 kW,21832.6,51667.4,$7K,$8.57,$0M,12 kW,2289.8,10529.9
+Small_General_Service_Metered_(A10),Primary School,Duluth,1,0 kWh,0 kW,0,922888,$91K,$0.00,$0M,166 kW,0,178423
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Midrise Apartment,Boulder,1,0 kWh,0 kW,97721.6,82082.5,$0K,$18.90,$0M,0 kW,359.9,9.5
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Retail Store,Boulder,1,0 kWh,0 kW,61256.3,425922,$78K,$4.84,$0M,142 kW,5736.4,175799
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Restaurant,Miami,1,0 kWh,0 kW,84372.5,199877,$0K,$9.20,$0M,0 kW,0,0
+GSEDS-1_Primary_Non-Demand,Hospital,Helena,1,0 kWh,0 kW,0,7174430,$993K,$0.00,$0M,"1,805 kW",0,2091350
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Outpatient,Atlanta,1,0 kWh,0 kW,374541,900645,$9K,$15.66,$0M,16 kW,4579,10398
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Medium Office,LasVegas,1,0 kWh,0 kW,218420,572989,$96K,$12.47,$0M,174 kW,28898,152042
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Midrise Apartment,San Francisco,1,72 kWh,15 kW,138473,204225,$54K,$34.72,$0M,54 kW,47774.8,73499
+General_Service_(A14),Midrise Apartment,Duluth,1,0 kWh,0 kW,69732.1,135717,$0K,$14.98,$0M,0 kW,0,0
+Schedule_SMC_-_Small_General_Service_City,Small Office,Seattle,1,0 kWh,0 kW,0,58454.4,$0K,$0.00,$0M,0 kW,0,0
+Large_Light_&_Power_-_Primary_voltage_discount,Primary School,Minneapolis,1,0 kWh,0 kW,0,589796,$0K,$7.55,$0M,0 kW,0,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Warehouse,Seattle,1,0 kWh,0 kW,12777.7,122758,$0K,$2.32,$0M,0 kW,0,0
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Hospital,Phoenix,1,0 kWh,0 kW,446054,4863880,$193K,$4.12,$0M,351 kW,19557,306860
+Schedule_GL_(Secondary_Voltage),Small Hotel,Baltimore,1,0 kWh,0 kW,97976.8,559441,$49K,$6.15,$0M,88 kW,0,85191
+GSEDS-1_Primary_Non-Demand,Small Office,Helena,1,0 kWh,0 kW,0,74879.9,$9K,$0.00,$0M,17 kW,0,17937.7
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Small Hotel,San Francisco,1,182 kWh,42 kW,383824,618162,$154K,$34.72,$0M,165 kW,126381,225199
+E-36_Standard_Price_Plan_for_General_Service,Retail Store,Phoenix,1,0 kWh,0 kW,77684.5,356710,$78K,$6.76,$0M,142 kW,11779.1,140805
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Warehouse,Seattle,1,0 kWh,0 kW,12777.7,134034,$0K,$2.32,$0M,0 kW,0,0
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Midrise Apartment,New York,1,91 kWh,19 kW,226778,231554,$65K,$41.95,$0M,63 kW,61836,64908
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Small Hotel,Phoenix,1,0 kWh,0 kW,106889,589592,$71K,$6.65,$0M,130 kW,1189,135245
+GSEDS-1_Secondary_Demand,Small Office,Helena,1,0 kWh,0 kW,19879.5,59710.2,$5K,$9.41,$0M,10 kW,1672.5,8572.7
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Small Hotel,Atlanta,1,0 kWh,0 kW,167545,427322,$0K,$15.66,$0M,0 kW,0,0
+GSEDS-1_Primary_Demand,Warehouse,Helena,1,0 kWh,0 kW,53491.5,175060,$13K,$7.90,$0M,23 kW,2865.7,20249
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Fast Food,New York,1,27 kWh,7 kW,110714,163422,$36K,$41.95,$0M,48 kW,25261.1,50762
+OGS-TOU-NEM,Primary School,LasVegas,1,0 kWh,0 kW,0,757581,$38K,$0.00,$0M,69 kW,0,62805
+LGS-1_-_Large_General_Service,Secondary School,LasVegas,1,0 kWh,0 kW,835724,1675160,$209K,$8.57,$0M,380 kW,83636,323320
+Schedule_P,Large Office,Baltimore,1,0 kWh,0 kW,918765,4385150,$210K,$5.31,$0M,383 kW,43634,320030
+GSEDS-1_Primary_Demand,Restaurant,Helena,1,0 kWh,0 kW,44752.3,225729,$30K,$7.90,$0M,54 kW,2706.4,50921
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Midrise Apartment,Seattle,1,0 kWh,0 kW,12223.7,146486,$0K,$2.32,$0M,0 kW,0,0
+Small_General_Service_Metered_(A10),Supermarket,Duluth,1,0 kWh,0 kW,0,1873300,$255K,$0.00,$0M,463 kW,0,538080
+GSEDS-1_Secondary_Non-Demand,Strip Mall,Helena,1,0 kWh,0 kW,0,524626,$89K,$0.00,$0M,162 kW,0,214965
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Medium Office,Anaheim,1,119 kWh,47 kW,561288,518121,$208K,$36.38,$0M,280 kW,209171,240972
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Large Office,Atlanta,1,0 kWh,0 kW,0,5348590,$0K,$0.00,$0M,0 kW,0,0
+Schedule_MDD_-_Medium_Network_General_Service,Small Hotel,Seattle,1,0 kWh,0 kW,66035.6,499275,$0K,$4.54,$0M,0 kW,0,0
+OGS-TOU-NEM,Large Hotel,LasVegas,1,0 kWh,0 kW,0,1560770,$126K,$0.00,$0M,229 kW,0,209400
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Fast Food,Boulder,1,0 kWh,0 kW,15832.7,165723,$21K,$4.84,$0M,38 kW,591.4,48421
+E-36_Standard_Price_Plan_for_General_Service,Midrise Apartment,Phoenix,1,0 kWh,0 kW,44252.8,227250,$19K,$6.76,$0M,34 kW,1520.4,34182
+GSEDS-1_Secondary_Demand,Midrise Apartment,Helena,1,0 kWh,0 kW,52425,179144,$16K,$9.41,$0M,30 kW,1385.4,28290
+Schedule_MDD_-_Medium_Network_General_Service,Secondary School,Seattle,1,0 kWh,0 kW,288372,1642590,$0K,$4.54,$0M,0 kW,0,0
+BES-Small_Load_Delivery_Class_(Secondary),Large Hotel,Chicago,1,0 kWh,0 kW,322924,1461900,$0K,$6.18,$0M,0 kW,0,0
+GSEDS-1_Primary_Non-Demand,Outpatient,Helena,1,0 kWh,0 kW,0,1394450,$202K,$0.00,$0M,368 kW,0,417749
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Warehouse,Atlanta,1,0 kWh,0 kW,74485.3,119400,$5K,$15.66,$0M,9 kW,2597.4,5788
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Small Hotel,San Francisco,1,78 kWh,22 kW,192288,863641,$110K,$16.78,$0M,147 kW,30002,276205
+BES-Large_Load_Delivery_Class_(Secondary),Strip Mall,Chicago,1,0 kWh,0 kW,87208.4,308644,$0K,$6.73,$0M,0 kW,31.4,146
+3B_General_Power_TOU_(PNM-Owned_Transformer),Small Hotel,Albuquerque,1,12 kWh,9 kW,140070,381451,$58K,$17.47,$0M,90 kW,12903,91142
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Warehouse,Anaheim,1,12 kWh,5 kW,47659.1,195487,$45K,$9.97,$0M,71 kW,11842.6,109779.5
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Strip Mall,New York,1,111 kWh,29 kW,420783,427744,$152K,$41.95,$0M,202 kW,143222,204815
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Large Office,Albuquerque,1,93 kWh,74 kW,1605050,3077640,$601K,$17.47,$0M,972 kW,366030,793010
+3B_General_Power_TOU_(PNM-Owned_Transformer),Midrise Apartment,Albuquerque,1,0 kWh,0 kW,15649.9,139431,$16K,$17.47,$0M,29 kW,1702.2,28904
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Primary School,LasVegas,1,0 kWh,0 kW,318661,595632,$74K,$16.49,$0M,135 kW,39867,108710
+LGS-1_-_Large_General_Service,Small Hotel,LasVegas,1,0 kWh,0 kW,142125,439085,$40K,$8.57,$0M,73 kW,0,67097
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Fast Food,Miami,1,0 kWh,0 kW,41764.8,99632.2,$0K,$9.20,$0M,0 kW,119.2,234.7
+BES-Small_Load_Delivery_Class_(Secondary),Small Office,Chicago,1,0 kWh,0 kW,13858.4,52498.7,$0K,$6.18,$0M,0 kW,0,0
+Large_Light_&_Power_-_Primary_voltage_discount,Warehouse,Minneapolis,1,0 kWh,0 kW,0,143801,$0K,$7.55,$0M,0 kW,0,0
+BES-Medium_Load_Delivery_Class_(Secondary),Primary School,Chicago,1,0 kWh,0 kW,181001,636797,$10K,$6.29,$0M,18 kW,3548,13859
+Schedule_MDD_-_Medium_Network_General_Service,Strip Mall,Seattle,1,0 kWh,0 kW,51286.8,331303,$0K,$4.54,$0M,0 kW,0,0
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Outpatient,San Francisco,1,114 kWh,34 kW,400082,1772830,$294K,$16.78,$0M,454 kW,111324,762430
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Outpatient,LasVegas,1,0 kWh,0 kW,343823,881705,$136K,$16.49,$0M,247 kW,37083,206264
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Medium Office,San Francisco,1,197 kWh,58 kW,384915,983643,$251K,$17.58,$0M,318 kW,145274,586785
+Schedule_GL_(Secondary_Voltage),Restaurant,Baltimore,1,0 kWh,0 kW,38493.1,249737,$31K,$6.15,$0M,56 kW,1466.7,54087
+Schedule_MDC_-_Medium_Standard_General_Service_City,Medium Office,Seattle,1,0 kWh,0 kW,60768.6,512744,$0K,$2.32,$0M,0 kW,0,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Warehouse,Boulder,1,0 kWh,0 kW,114534,78289.3,$0K,$18.90,$0M,0 kW,310,82.4
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Strip Mall,Seattle,1,0 kWh,0 kW,26208.2,294270,$0K,$2.32,$0M,0 kW,0,0
+Power_and_Light_Large_Schedule_PLL-11,Large Hotel,Atlanta,1,0 kWh,0 kW,0,1335720,$0K,$0.00,$0M,0 kW,0,0
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Strip Mall,Boulder,1,0 kWh,0 kW,60066.8,418864,$75K,$4.84,$0M,137 kW,5572.4,168536
+A-6_Small_General_Service_TOU_Single_Phase,Fast Food,San Francisco,1,53 kWh,9 kW,0,370687,$50K,$0.00,$0M,62 kW,0,191096
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Strip Mall,San Francisco,1,43 kWh,13 kW,152863,578552,$112K,$16.78,$0M,173 kW,45603,299175
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Warehouse,New York,1,0 kWh,0 kW,0,265798,$41K,$21.82,$0M,75 kW,0,91416
+BES-Large_Load_Delivery_Class_(Secondary),Medium Office,Chicago,1,0 kWh,0 kW,198188,592769,$0K,$6.73,$0M,0 kW,0,0
+Schedule_G_-_Secondary,Strip Mall,Baltimore,1,0 kWh,0 kW,0,549816,$89K,$0.00,$0M,162 kW,0,213316
+Power_and_Light_Large_Schedule_PLL-11,Large Office,Atlanta,1,0 kWh,0 kW,0,3526480,$0K,$0.00,$0M,0 kW,0,0
+BES-Medium_Load_Delivery_Class_(Secondary),Medium Office,Chicago,1,0 kWh,0 kW,185231,592769,$0K,$6.29,$0M,0 kW,0,0
+GSD-1_(General_Service_Demand),Outpatient,Miami,1,0 kWh,0 kW,408601,858337,$12K,$10.60,$0M,22 kW,8473,13511
+Power_and_Light_Medium_Schedule_PLM-11,Outpatient,Atlanta,1,0 kWh,0 kW,0,725026,$0K,$0.00,$0M,0 kW,0,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Supermarket,Atlanta,1,0 kWh,0 kW,0,1589620,$0K,$0.00,$0M,0 kW,0,0
+GS-2_(S)_Large_General_Service_Secondary,Retail Store,Fairbanks,1,1 kWh,1 kW,141744,922878,$122K,$11.06,$0M,221 kW,14061,310655
+3B_General_Power_TOU_(PNM-Owned_Transformer),Large Hotel,Albuquerque,1,29 kWh,23 kW,638342,1224780,$176K,$17.47,$0M,281 kW,33529,284806
+GSEDS-1_Primary_Demand,Small Hotel,Helena,1,0 kWh,0 kW,119920,506470,$46K,$7.90,$0M,85 kW,0,79870
+GSD-1_(General_Service_Demand),Midrise Apartment,Miami,1,0 kWh,0 kW,97807.7,189076,$0K,$10.60,$0M,0 kW,0,0
+GS-2_(S)_Large_General_Service_Secondary,Supermarket,Fairbanks,1,3 kWh,2 kW,412645,3272480,$362K,$11.06,$0M,655 kW,48235,924430
+GSLD-1_(General_Service_Large_Demand),Secondary School,Miami,1,0 kWh,0 kW,1604240,1651320,$116K,$12.56,$0M,210 kW,94490,118320
+GSEDS-1_Secondary_Demand,Small Hotel,Helena,1,0 kWh,0 kW,142888,517452,$49K,$9.41,$0M,88 kW,0,85017
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Strip Mall,Seattle,1,0 kWh,0 kW,26208.2,284315,$0K,$2.32,$0M,0 kW,0,0
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Secondary School,Phoenix,1,0 kWh,0 kW,662596,2630070,$365K,$6.65,$0M,664 kW,109415,639330
+General_Service_(A14),Small Office,Duluth,1,0 kWh,0 kW,25882.6,44333.8,$1K,$14.98,$0M,3 kW,732.8,1750
+Schedule_MDC_-_Medium_Standard_General_Service_City,Midrise Apartment,Seattle,1,0 kWh,0 kW,12223.7,138485,$0K,$2.32,$0M,0 kW,0,0
+GSD-1_(General_Service_Demand),Primary School,Miami,1,0 kWh,0 kW,444645,634753,$66K,$10.60,$0M,119 kW,44332,73428
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Hospital,Atlanta,1,0 kWh,0 kW,0,6670950,$0K,$0.00,$0M,0 kW,0,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Midrise Apartment,LasVegas,1,0 kWh,0 kW,60986.8,212614,$15K,$12.47,$0M,28 kW,884.2,25949
+GSEDS-1_Primary_Non-Demand,Strip Mall,Helena,1,0 kWh,0 kW,0,447689,$81K,$0.00,$0M,147 kW,0,171286
+GSEDS-1_Primary_Demand,Primary School,Helena,1,0 kWh,0 kW,201502,690168,$58K,$7.90,$0M,105 kW,21480,95872
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Secondary School,Seattle,1,0 kWh,0 kW,147362,1409630,$0K,$2.32,$0M,0 kW,0,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Fast Food,Anaheim,1,15 kWh,5 kW,85655.6,129599,$30K,$38.02,$0M,44 kW,22025.3,49104.3
+LGS-1_-_Large_General_Service,Restaurant,LasVegas,1,0 kWh,0 kW,58146.6,199867,$28K,$8.57,$0M,51 kW,1079.9,46266
+BES-Large_Load_Delivery_Class_(Secondary),Retail Store,Chicago,1,0 kWh,0 kW,87511,312438,$0K,$6.73,$0M,0 kW,0,0
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Small Office,San Francisco,1,0 kWh,0 kW,0,146561,$17K,$0.00,$0M,32 kW,0,65260.4
+Small_General_Service_Metered_(A10),Outpatient,Duluth,1,0 kWh,0 kW,0,1443290,$187K,$0.00,$0M,340 kW,0,385640
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Medium Office,Anaheim,1,132 kWh,45 kW,559397,600770,$224K,$34.91,$0M,307 kW,217634,298394
+BES-Medium_Load_Delivery_Class_(Secondary),Large Office,Chicago,1,0 kWh,0 kW,1042890,3877110,$0K,$6.29,$0M,0 kW,0,0
+2B_Small_Power_Service_-_TOU,Small Office,Albuquerque,1,0 kWh,0 kW,0,117324,$19K,$0.00,$0M,34 kW,0,67677.2
+Schedule_G_-_Secondary,Small Office,Baltimore,1,0 kWh,0 kW,0,93798,$13K,$0.00,$0M,24 kW,0,28790.2
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Strip Mall,New York,1,0 kWh,0 kW,0,584002,$94K,$21.82,$0M,172 kW,0,237028
+Small_General_Service_Metered_(A10),Fast Food,Duluth,1,0 kWh,0 kW,0,173296,$20K,$0.00,$0M,36 kW,0,41735
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Restaurant,Anaheim,1,21 kWh,7 kW,87251.5,317443,$56K,$13.20,$0M,85 kW,21060.7,137155
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Strip Mall,Anaheim,1,73 kWh,20 kW,278697,371964,$123K,$30.87,$0M,174 kW,107685,196417
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Secondary School,Atlanta,1,0 kWh,0 kW,0,2273550,$0K,$0.00,$0M,0 kW,0,0
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Small Hotel,New York,1,0 kWh,0 kW,0,888102,$81K,$21.82,$0M,147 kW,0,201504
+GSEDS-1_Secondary_Non-Demand,Midrise Apartment,Helena,1,0 kWh,0 kW,0,263264,$22K,$0.00,$0M,39 kW,0,52418
+Schedule_GL_(Secondary_Voltage),Primary School,Baltimore,1,0 kWh,0 kW,186940,791190,$68K,$6.15,$0M,124 kW,21714,114240
+E-36_Standard_Price_Plan_for_General_Service,Medium Office,Phoenix,1,0 kWh,0 kW,147275,603590,$96K,$6.76,$0M,174 kW,22738,162129
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Supermarket,Anaheim,1,158 kWh,48 kW,950263,1368300,$360K,$38.02,$0M,543 kW,268425,607654
+BES-Small_Load_Delivery_Class_(Secondary),Hospital,Chicago,1,0 kWh,0 kW,941431,5216790,$0K,$6.18,$0M,0 kW,0,0
+GSEDS-1_Secondary_Demand,Fast Food,Helena,1,0 kWh,0 kW,29785.4,131794,$18K,$9.41,$0M,32 kW,1115.1,30965
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Strip Mall,Anaheim,1,60 kWh,18 kW,174729,502358,$128K,$13.20,$0M,190 kW,59783,298901
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Strip Mall,Anaheim,1,38 kWh,10 kW,131973,558941,$119K,$9.97,$0M,191 kW,37501.8,324306
+Power_and_Light_Large_Schedule_PLL-11,Secondary School,Atlanta,1,0 kWh,0 kW,0,1436580,$0K,$0.00,$0M,0 kW,0,0
+E-36_Standard_Price_Plan_for_General_Service,Large Hotel,Phoenix,1,0 kWh,0 kW,306233,1795800,$192K,$6.76,$0M,350 kW,183,350400
+Schedule_GL_(Secondary_Voltage),Secondary School,Baltimore,1,0 kWh,0 kW,549392,1999390,$164K,$6.15,$0M,299 kW,47749,272510
+GSEDS-1_Secondary_Non-Demand,Secondary School,Helena,1,0 kWh,0 kW,0,2456510,$369K,$0.00,$0M,670 kW,0,774110
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Small Office,Anaheim,1,12 kWh,4 kW,31633.6,89013.7,$25K,$13.20,$0M,36 kW,11020.1,52490.3
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Secondary School,LasVegas,1,0 kWh,0 kW,1141940,1510290,$206K,$16.30,$0M,375 kW,120520,282230
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Medium Office,San Francisco,1,78 kWh,30 kW,290061,1001760,$190K,$16.78,$0M,282 kW,80920,438290
+A-6_Small_General_Service_TOU_Single_Phase,Supermarket,San Francisco,1,635 kWh,102 kW,0,3914570,$615K,$0.00,$1M,771 kW,0,2404420
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Retail Store,Seattle,1,0 kWh,0 kW,25852.3,281470,$0K,$2.32,$0M,0 kW,0,0
+GSEDS-1_Secondary_Demand,Large Hotel,Helena,1,0 kWh,0 kW,454264,1592660,$149K,$9.41,$0M,270 kW,1249,260490
+GS-2_(S)_Large_General_Service_Secondary,Fast Food,Fairbanks,1,0 kWh,0 kW,32908.5,293718,$26K,$11.06,$0M,47 kW,1438.4,66989
+GSEDS-1_Primary_Demand,Small Office,Helena,1,0 kWh,0 kW,16684,58443,$5K,$7.90,$0M,8 kW,1295.5,7468.3
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Medium Office,Anaheim,1,152 kWh,49 kW,578728,621840,$237K,$38.02,$0M,320 kW,242222,320049
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Secondary School,New York,1,0 kWh,0 kW,0,3122940,$428K,$21.82,$0M,778 kW,0,961570
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Retail Store,Anaheim,1,64 kWh,19 kW,273816,368391,$119K,$30.87,$0M,171 kW,96927,194027
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Small Office,San Francisco,1,8 kWh,3 kW,27798.1,99276,$20K,$16.78,$0M,30 kW,9412.6,45478
+Small_General_Service_Metered_(A10),Medium Office,Duluth,1,0 kWh,0 kW,0,963979,$112K,$0.00,$0M,204 kW,0,216713
+GSEDS-1_Secondary_Demand,Supermarket,Helena,1,0 kWh,0 kW,354997,1396190,$230K,$9.41,$0M,419 kW,36174,401997
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Small Office,Atlanta,1,0 kWh,0 kW,0,69285.7,$0K,$0.00,$0M,0 kW,0,-3
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Medium Office,New York,1,145 kWh,44 kW,768283,801240,$243K,$41.95,$0M,339 kW,266140,314121
+GSEDS-1_Secondary_Non-Demand,Outpatient,Helena,1,0 kWh,0 kW,0,1634090,$225K,$0.00,$0M,409 kW,0,530200
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Large Hotel,Anaheim,1,165 kWh,61 kW,820360,1938470,$335K,$16.23,$0M,478 kW,102678,677060
+GS-2_(S)_Large_General_Service_Secondary,Large Hotel,Fairbanks,1,11 kWh,9 kW,506617,3511270,$259K,$11.06,$0M,456 kW,14211,639630
+GS-2_(S)_Large_General_Service_Secondary,Warehouse,Fairbanks,1,4 kWh,1 kW,80198.2,458799,$57K,$11.06,$0M,101 kW,6757.3,126303
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Warehouse,Seattle,1,0 kWh,0 kW,12777.7,129851,$0K,$2.32,$0M,0 kW,0,0
+Schedule_G_-_Secondary,Medium Office,Baltimore,1,0 kWh,0 kW,0,1030440,$143K,$0.00,$0M,260 kW,0,316251
+GSEDS-1_Primary_Demand,Large Hotel,Helena,1,0 kWh,0 kW,381244,1558860,$142K,$7.90,$0M,258 kW,1021,244200
+General_Service_(A14),Outpatient,Duluth,1,0 kWh,0 kW,398661,812167,$2K,$14.98,$0M,3 kW,754,1853
+LGS-1_-_Large_General_Service,Large Office,LasVegas,1,0 kWh,0 kW,1443400,3637550,$487K,$8.57,$0M,886 kW,136330,773580
+E-36_Standard_Price_Plan_for_General_Service,Large Office,Phoenix,1,0 kWh,0 kW,852223,4331260,$575K,$6.76,$0M,"1,045 kW",90947,1005940
+BES-Small_Load_Delivery_Class_(Secondary),Medium Office,Chicago,1,0 kWh,0 kW,181991,592769,$0K,$6.18,$0M,0 kW,0,0
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Hospital,Albuquerque,1,64 kWh,51 kW,1548470,3880950,$720K,$17.47,$0M,"1,227 kW",241610,1050810
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Supermarket,New York,1,0 kWh,0 kW,0,2335860,$323K,$21.82,$0M,588 kW,0,817120
+Small_General_Service_Time-Of-Use_(A-1)(B),Small Office,Los Angeles,1,0 kWh,0 kW,17925.7,108076,$18K,$7.48,$0M,33 kW,3956.5,51501.6
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Hospital,LasVegas,1,0 kWh,0 kW,1662760,4159200,$651K,$16.30,$0M,"1,184 kW",166800,954280
+GSEDS-1_Secondary_Demand,Secondary School,Helena,1,0 kWh,0 kW,630089,1671580,$155K,$9.41,$0M,282 kW,69210,254400
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Fast Food,New York,1,0 kWh,0 kW,0,223120,$25K,$21.82,$0M,46 kW,0,65032
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Restaurant,San Francisco,1,12 kWh,3 kW,73704.5,394859,$48K,$16.78,$0M,80 kW,11906.1,146096
+GSEDS-1_Secondary_Demand,Retail Store,Helena,1,0 kWh,0 kW,121494,379290,$75K,$9.41,$0M,136 kW,12552,129653
+GSEDS-1_Primary_Non-Demand,Large Office,Helena,1,0 kWh,0 kW,0,5337800,$818K,$0.00,$0M,"1,488 kW",0,1585190
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Midrise Apartment,Anaheim,1,31 kWh,9 kW,118406,176985,$39K,$30.87,$0M,49 kW,25665.1,55161
+BES-Medium_Load_Delivery_Class_(Secondary),Supermarket,Chicago,1,0 kWh,0 kW,253153,1233140,$19K,$6.29,$0M,35 kW,7483,26130
+LGS-1_-_Large_General_Service,Supermarket,LasVegas,1,0 kWh,0 kW,347023,1074200,$169K,$8.57,$0M,307 kW,29108,280569
+Schedule_MDC_-_Medium_Standard_General_Service_City,Strip Mall,Seattle,1,0 kWh,0 kW,26208.2,268785,$0K,$2.32,$0M,0 kW,0,0
+Small_General_Service_Metered_(A10),Large Office,Duluth,1,0 kWh,0 kW,0,5712320,$747K,$0.00,$0M,"1,358 kW",0,1450230
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Midrise Apartment,Phoenix,1,0 kWh,0 kW,56543.2,268986,$25K,$6.65,$0M,46 kW,2113.9,46655
+Power_and_Light_Medium_Schedule_PLM-11,Warehouse,Atlanta,1,0 kWh,0 kW,0,96680.3,$0K,$0.00,$0M,0 kW,0,0
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Small Office,Atlanta,1,0 kWh,0 kW,27378.6,51037.2,$2K,$15.66,$0M,3 kW,921.3,1909.6
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Small Hotel,Anaheim,1,41 kWh,13 kW,198144,658171,$100K,$13.20,$0M,151 kW,18307,241199
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Warehouse,New York,1,51 kWh,15 kW,189270,194680,$74K,$41.95,$0M,99 kW,79986,87920
+A-6_Small_General_Service_TOU_Single_Phase,Hospital,San Francisco,1,"2,707 kWh",436 kW,0,16224000,"$2,530K",$0.00,$4M,"3,119 kW",0,9631510
+GS-2_(S)_Large_General_Service_Secondary,Small Hotel,Fairbanks,1,1 kWh,1 kW,186855,1338220,$83K,$11.06,$0M,150 kW,1775,210720
+GSEDS-1_Secondary_Demand,Medium Office,Helena,1,0 kWh,0 kW,282284,659853,$57K,$9.41,$0M,103 kW,11107,93361
+A-6_Small_General_Service_TOU_Single_Phase,Small Hotel,San Francisco,1,226 kWh,36 kW,0,1389800,$182K,$0.00,$0M,209 kW,0,639828
+Large_Light_&_Power_-_Primary_voltage_discount,Retail Store,Minneapolis,1,0 kWh,0 kW,0,310972,$0K,$7.55,$0M,0 kW,0,0
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Restaurant,San Francisco,1,9 kWh,3 kW,73704.5,402636,$47K,$16.78,$0M,78 kW,11313,136846
+GSEDS-1_Primary_Demand,Outpatient,Helena,1,0 kWh,0 kW,264415,1088350,$136K,$7.90,$0M,247 kW,20559,229104
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Outpatient,Phoenix,1,0 kWh,0 kW,261789,1231210,$232K,$6.65,$0M,422 kW,50703,428315
+LGS-1_-_Large_General_Service,Large Hotel,LasVegas,1,0 kWh,0 kW,495121,1480860,$123K,$8.57,$0M,224 kW,0,205750
+BES-Small_Load_Delivery_Class_(Secondary),Small Hotel,Chicago,1,0 kWh,0 kW,97563.3,462529,$0K,$6.18,$0M,0 kW,0,0
+Schedule_G_-_Secondary,Primary School,Baltimore,1,0 kWh,0 kW,0,1173900,$164K,$0.00,$0M,299 kW,0,355955
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Warehouse,San Francisco,1,0 kWh,0 kW,0,346584,$41K,$0.00,$0M,75 kW,0,150449
+BES-Small_Load_Delivery_Class_(Secondary),Secondary School,Chicago,1,0 kWh,0 kW,514867,1563540,$58K,$6.18,$0M,106 kW,19066,79370
+General_Service_With_Demand_Meter_(Rate_Code_25),Hospital,Minneapolis,1,0 kWh,0 kW,876513,6049440,$736K,$5.86,$0M,"1,338 kW",61767,1249190
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Restaurant,Seattle,1,0 kWh,0 kW,12731.1,203147,$0K,$2.32,$0M,0 kW,0,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Warehouse,Atlanta,1,0 kWh,0 kW,0,162006,$0K,$0.00,$0M,0 kW,0,4
+Schedule_G_-_Secondary,Small Hotel,Baltimore,1,0 kWh,0 kW,0,836067,$76K,$0.00,$0M,139 kW,0,182182
+Schedule_G_-_Secondary,Retail Store,Baltimore,1,0 kWh,0 kW,0,555843,$92K,$0.00,$0M,168 kW,0,221454
+GSEDS-1_Secondary_Non-Demand,Large Hotel,Helena,1,0 kWh,0 kW,0,2340530,$211K,$0.00,$0M,383 kW,0,509070
+SC-9_-_General_Large_TOD_Service_[NYC],Hospital,New York,1,"1,149 kWh",321 kW,6818630,6538560,"$1,785K",$54.31,$1M,"2,458 kW",1880110,2226040
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Small Hotel,Anaheim,1,32 kWh,9 kW,149659,741926,$97K,$9.97,$0M,154 kW,9789,266479
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Midrise Apartment,Miami,1,0 kWh,0 kW,95891.9,191041,$0K,$9.20,$0M,0 kW,0,0
+GS-1_General_Service,Small Office,Fairbanks,1,0 kWh,0 kW,0,136771,$16K,$0.00,$0M,28 kW,0,36247
+General_Service_With_Demand_Meter_(Rate_Code_25),Supermarket,Minneapolis,1,0 kWh,0 kW,233660,1460940,$205K,$5.86,$0M,374 kW,20545,349790
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Medium Office,LasVegas,1,0 kWh,0 kW,269771,480444,$84K,$16.49,$0M,152 kW,38403,118766
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Retail Store,LasVegas,1,0 kWh,0 kW,107169,347246,$69K,$12.47,$0M,126 kW,11142.7,116600
+Small_General_Time-of-Day_Service_(A12),Small Office,Duluth,1,0 kWh,0 kW,0,85085.8,$14K,$0.00,$0M,26 kW,0,32233.3
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Large Office,Phoenix,1,0 kWh,0 kW,520747,4091970,$232K,$4.16,$0M,421 kW,34746,369990
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Primary School,San Francisco,1,173 kWh,40 kW,457635,1262430,$289K,$17.58,$0M,415 kW,171345,722041
+General_Service_(A14),Supermarket,Duluth,1,0 kWh,0 kW,473231,1048600,$22K,$14.98,$0M,40 kW,15761,26830
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Outpatient,Seattle,1,0 kWh,0 kW,69748.4,916557,$0K,$2.32,$0M,0 kW,0,0
+Large_Light_&_Power_-_Primary_voltage_discount,Large Hotel,Minneapolis,1,0 kWh,0 kW,0,1371950,$0K,$7.55,$0M,0 kW,0,0
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Primary School,San Francisco,1,218 kWh,47 kW,761166,949958,$298K,$34.72,$0M,408 kW,319580,481867
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Strip Mall,Seattle,1,0 kWh,0 kW,26208.2,293474,$0K,$2.32,$0M,0 kW,0,0
+Schedule_MDD_-_Medium_Network_General_Service,Warehouse,Seattle,1,0 kWh,0 kW,25004.6,151311,$0K,$4.54,$0M,0 kW,0,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Small Hotel,LasVegas,1,0 kWh,0 kW,121299,460547,$47K,$12.47,$0M,86 kW,231,81121
+Schedule_GL_(Secondary_Voltage),Strip Mall,Baltimore,1,0 kWh,0 kW,81561.5,371821,$64K,$6.15,$0M,117 kW,8021.7,111007
+E-36_Standard_Price_Plan_for_General_Service,Small Office,Phoenix,1,0 kWh,0 kW,13595.4,62807.6,$8K,$6.76,$0M,15 kW,2149.3,13534.8
+Large_Light_&_Power_-_Primary_voltage_discount,Supermarket,Minneapolis,1,0 kWh,0 kW,0,1173430,$0K,$7.55,$0M,0 kW,0,0
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Primary School,Miami,1,0 kWh,0 kW,429874,668922,$50K,$9.20,$0M,91 kW,34552,55529
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Supermarket,Phoenix,1,0 kWh,0 kW,260188,1393910,$255K,$6.65,$0M,464 kW,31788,486073
+E-36_Standard_Price_Plan_for_General_Service,Primary School,Phoenix,1,0 kWh,0 kW,186831,774212,$87K,$6.76,$0M,159 kW,27949,151985
+Large_Light_&_Power_-_Primary_voltage_discount,Midrise Apartment,Minneapolis,1,0 kWh,0 kW,0,154206,$0K,$7.55,$0M,0 kW,0,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Strip Mall,San Francisco,1,56 kWh,15 kW,152863,594110,$118K,$16.78,$0M,176 kW,48837,325246
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Warehouse,Seattle,1,0 kWh,0 kW,12777.7,134398,$0K,$2.32,$0M,0 kW,0,0
+3B_General_Power_TOU_(PNM-Owned_Transformer),Large Office,Albuquerque,1,102 kWh,81 kW,2185310,3612250,$889K,$17.47,$0M,"1,486 kW",422370,1386180
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Large Hotel,Boulder,1,25 kWh,20 kW,841904,743338,$21K,$18.90,$0M,7 kW,33077,3046
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Retail Store,San Francisco,1,127 kWh,27 kW,322454,424286,$145K,$34.72,$0M,186 kW,134269,252749
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Midrise Apartment,Los Angeles,1,5 kWh,2 kW,84103.6,210228,$29K,$17.48,$0M,48 kW,12286.9,59954
+A-6_Small_General_Service_TOU_Single_Phase,Large Hotel,San Francisco,1,744 kWh,119 kW,0,4418220,$590K,$0.00,$1M,666 kW,0,2046950
+Small_General_Service_Metered_(A10),Secondary School,Duluth,1,0 kWh,0 kW,0,2196360,$197K,$0.00,$0M,358 kW,0,384450
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Midrise Apartment,Anaheim,1,18 kWh,5 kW,54007.4,256311,$38K,$9.97,$0M,58 kW,7732.8,95962
+A-6_Small_General_Service_TOU_Single_Phase,Midrise Apartment,San Francisco,1,97 kWh,16 kW,0,461263,$69K,$0.00,$0M,72 kW,0,218858
+Small_General_Service_Metered_(A10),Retail Store,Duluth,1,0 kWh,0 kW,0,502035,$82K,$0.00,$0M,149 kW,0,173027
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Secondary School,Albuquerque,1,0 kWh,0 kW,403852,1285370,$234K,$17.47,$0M,425 kW,151396,327433
+BES-Medium_Load_Delivery_Class_(Secondary),Small Office,Chicago,1,0 kWh,0 kW,14105.1,52498.7,$0K,$6.29,$0M,0 kW,0,0
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Supermarket,San Francisco,1,313 kWh,72 kW,608614,2190460,$442K,$17.58,$0M,606 kW,204717,1202692
+Power_and_Light_Medium_Schedule_PLM-11,Supermarket,Atlanta,1,0 kWh,0 kW,0,907332,$0K,$0.00,$0M,0 kW,0,0
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Midrise Apartment,Atlanta,1,0 kWh,0 kW,80574.5,162364,$0K,$15.66,$0M,0 kW,0,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Secondary School,Anaheim,1,381 kWh,102 kW,1337380,2695240,$734K,$15.57,$1M,"1,079 kW",518353,1577920
+GS-2_(S)_Large_General_Service_Secondary,Medium Office,Fairbanks,1,12 kWh,9 kW,403207,2039380,$175K,$11.06,$0M,302 kW,23544,399790
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Retail Store,New York,1,0 kWh,0 kW,0,590413,$98K,$21.82,$0M,177 kW,0,245564
+3B_General_Power_TOU_(PNM-Owned_Transformer),Strip Mall,Albuquerque,1,11 kWh,8 kW,105109,283997,$77K,$17.47,$0M,126 kW,28889.8,124910
+E-36_Standard_Price_Plan_for_General_Service,Strip Mall,Phoenix,1,0 kWh,0 kW,77883.1,354929,$80K,$6.76,$0M,145 kW,12892.2,142903
+BES-Medium_Load_Delivery_Class_(Secondary),Small Hotel,Chicago,1,0 kWh,0 kW,99299.9,462529,$0K,$6.29,$0M,0 kW,0,0
+3B_General_Power_TOU_(PNM-Owned_Transformer),Retail Store,Albuquerque,1,11 kWh,9 kW,108848,290168,$80K,$17.47,$0M,131 kW,29959.3,129906
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Strip Mall,Phoenix,1,0 kWh,0 kW,101363,417930,$90K,$6.65,$0M,163 kW,19627.8,167540
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Supermarket,LasVegas,1,0 kWh,0 kW,303980,1181910,$202K,$12.47,$0M,368 kW,28739,344043
+OGS-TOU-NEM,Small Office,LasVegas,1,0 kWh,0 kW,0,59603.9,$1K,$0.00,$0M,3 kW,0,2490
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Restaurant,Anaheim,1,20 kWh,8 kW,136807,250724,$53K,$30.87,$0M,79 kW,33289,91390
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Fast Food,San Francisco,1,5 kWh,2 kW,41178.9,233469,$27K,$16.78,$0M,45 kW,4721.8,79810
+Schedule_G_-_Secondary,Restaurant,Baltimore,1,0 kWh,0 kW,0,372449,$42K,$0.00,$0M,77 kW,0,103158
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Hospital,Miami,1,0 kWh,0 kW,2135000,4057890,$27K,$11.00,$0M,49 kW,19540,27210
+OGS-TOU-NEM,Strip Mall,LasVegas,1,0 kWh,0 kW,0,347574,$23K,$0.00,$0M,42 kW,0,38819
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Fast Food,San Francisco,1,15 kWh,4 kW,53106.8,204117,$30K,$17.58,$0M,45 kW,8273.4,89220
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Fast Food,San Francisco,1,6 kWh,2 kW,41178.9,228514,$27K,$16.78,$0M,45 kW,4892.7,84369
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Secondary School,Boulder,1,17 kWh,14 kW,1287350,784612,$68K,$18.90,$0M,102 kW,75380,48712
+Power_and_Light_Large_Schedule_PLL-11,Hospital,Atlanta,1,0 kWh,0 kW,0,4564330,$0K,$0.00,$0M,0 kW,0,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Large Hotel,Anaheim,1,244 kWh,77 kW,787000,2151870,$382K,$15.57,$0M,517 kW,123690,841040
+BES-Medium_Load_Delivery_Class_(Secondary),Large Hotel,Chicago,1,0 kWh,0 kW,328672,1461900,$0K,$6.29,$0M,0 kW,0,0
+GSEDS-1_Secondary_Demand,Primary School,Helena,1,0 kWh,0 kW,240096,705132,$66K,$9.41,$0M,120 kW,27671,109783
+General_Service_(A14),Small Hotel,Duluth,1,0 kWh,0 kW,191137,398209,$0K,$14.98,$0M,0 kW,0,0
+General_Service_With_Demand_Meter_(Rate_Code_25),Secondary School,Minneapolis,1,0 kWh,0 kW,447527,1794100,$111K,$5.86,$0M,202 kW,28965,185790
+BES-Large_Load_Delivery_Class_(Secondary),Small Office,Chicago,1,0 kWh,0 kW,15091.8,52498.7,$0K,$6.73,$0M,0 kW,0,0
+GSEDS-1_Secondary_Non-Demand,Small Office,Helena,1,0 kWh,0 kW,0,87748.2,$14K,$0.00,$0M,25 kW,0,29081.5
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Restaurant,Atlanta,1,0 kWh,0 kW,72590.9,192286,$0K,$15.66,$0M,0 kW,0,0
+OGS-TOU-NEM,Retail Store,LasVegas,1,0 kWh,0 kW,0,349938,$27K,$0.00,$0M,50 kW,0,45591
+General_Service_With_Demand_Meter_(Rate_Code_25),Medium Office,Minneapolis,1,0 kWh,0 kW,180117,722250,$45K,$5.86,$0M,81 kW,6417,73362
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Strip Mall,LasVegas,1,0 kWh,0 kW,109145,344783,$69K,$12.47,$0M,126 kW,12525.3,115720
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Fast Food,Phoenix,1,0 kWh,0 kW,24959.9,145110,$23K,$6.65,$0M,41 kW,1045.9,43281
+BES-Small_Load_Delivery_Class_(Secondary),Retail Store,Chicago,1,0 kWh,0 kW,80359.3,312438,$0K,$6.18,$0M,0 kW,0,0
+GSEDS-1_Secondary_Non-Demand,Fast Food,Helena,1,0 kWh,0 kW,0,193680,$23K,$0.00,$0M,42 kW,0,56095
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Primary School,Phoenix,1,0 kWh,0 kW,223594,930054,$161K,$6.65,$0M,293 kW,47722,278249
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Primary School,Anaheim,1,132 kWh,38 kW,801982,805021,$262K,$38.02,$0M,385 kW,343101,375942
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Retail Store,Miami,1,0 kWh,0 kW,165782,293785,$8K,$9.20,$0M,15 kW,5233,8830
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Small Hotel,San Francisco,1,155 kWh,35 kW,246273,762725,$143K,$17.58,$0M,164 kW,62642,323003
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Midrise Apartment,Seattle,1,0 kWh,0 kW,12223.7,151205,$0K,$2.32,$0M,0 kW,0,0
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Hospital,Atlanta,1,0 kWh,0 kW,1700510,4840090,$43K,$15.66,$0M,78 kW,23290,51890
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Large Hotel,New York,1,0 kWh,0 kW,0,2932350,$276K,$21.82,$0M,501 kW,0,672040
+GS-2_(S)_Large_General_Service_Secondary,Midrise Apartment,Fairbanks,1,0 kWh,0 kW,61516.9,437511,$28K,$11.06,$0M,50 kW,2344.9,68980
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Fast Food,Los Angeles,1,3 kWh,1 kW,50319.9,159882,$25K,$17.48,$0M,42 kW,10470.9,55531
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Fast Food,LasVegas,1,0 kWh,0 kW,27910.9,118212,$18K,$12.47,$0M,32 kW,492.1,30452.3
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Outpatient,Anaheim,1,120 kWh,48 kW,833321,1061770,$310K,$34.91,$0M,465 kW,271330,478735
+GSLD-1_(General_Service_Large_Demand),Large Hotel,Miami,1,0 kWh,0 kW,817410,1393170,$0K,$12.56,$0M,0 kW,0,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Hospital,Anaheim,1,441 kWh,182 kW,2432480,6971760,"$1,447K",$16.23,$1M,"2,260 kW",515810,3141300
+General_Service_With_Demand_Meter_(Rate_Code_25),Large Hotel,Minneapolis,1,0 kWh,0 kW,305880,1708100,$129K,$5.86,$0M,236 kW,819,221250
+Power_and_Light_Medium_Schedule_PLM-11,Fast Food,Atlanta,1,0 kWh,0 kW,0,85605.1,$0K,$0.00,$0M,0 kW,0,0
+LGS-1_-_Large_General_Service,Primary School,LasVegas,1,0 kWh,0 kW,293432,642688,$77K,$8.57,$0M,140 kW,36666,122065
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Restaurant,San Francisco,1,36 kWh,11 kW,155419,283560,$56K,$34.72,$0M,77 kW,40170,107391
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Small Hotel,New York,1,198 kWh,47 kW,489024,650478,$166K,$41.95,$0M,176 kW,145823,183235
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Large Office,Anaheim,1,530 kWh,241 kW,2711020,5992580,"$1,619K",$16.23,$1M,"2,471 kW",744580,3218750
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Medium Office,Seattle,1,0 kWh,0 kW,60768.6,561360,$0K,$2.32,$0M,0 kW,0,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Restaurant,Seattle,1,0 kWh,0 kW,12731.1,186058,$0K,$2.32,$0M,0 kW,0,0
+Schedule_GL_(Secondary_Voltage),Large Hotel,Baltimore,1,0 kWh,0 kW,335034,1852770,$148K,$6.15,$0M,269 kW,0,258610
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Secondary School,Miami,1,0 kWh,0 kW,1554860,1726750,$144K,$11.00,$0M,261 kW,117430,145280
+Small_General_Service_Metered_(A10),Small Hotel,Duluth,1,0 kWh,0 kW,0,709329,$60K,$0.00,$0M,110 kW,0,128067
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Small Hotel,San Francisco,1,41 kWh,15 kW,192288,889146,$92K,$16.78,$0M,135 kW,19841,243070
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Primary School,New York,1,0 kWh,0 kW,0,1246530,$173K,$21.82,$0M,314 kW,0,394120
+GSEDS-1_Primary_Demand,Medium Office,Helena,1,0 kWh,0 kW,236909,645850,$54K,$7.90,$0M,98 kW,8974,87354
+Schedule_MDC_-_Medium_Standard_General_Service_City,Supermarket,Seattle,1,0 kWh,0 kW,84094.8,1090970,$0K,$2.32,$0M,0 kW,0,0
+Schedule_LGC_-_Large_Standard_General_Service_City,Hospital,Seattle,1,0 kWh,0 kW,316801,4529750,$0K,$2.08,$0M,0 kW,0,0
+GSD-1_(General_Service_Demand),Retail Store,Miami,1,0 kWh,0 kW,171593,282573,$4K,$10.60,$0M,8 kW,2688,4677
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Retail Store,Phoenix,1,0 kWh,0 kW,100960,421782,$86K,$6.65,$0M,157 kW,17116.8,163084
+GSEDS-1_Secondary_Demand,Outpatient,Helena,1,0 kWh,0 kW,315058,1111950,$157K,$9.41,$0M,285 kW,26823,266463
+OGS-TOU-NEM,Fast Food,LasVegas,1,0 kWh,0 kW,0,114948,$16K,$0.00,$0M,29 kW,0,26657.8
+OGS-TOU-NEM,Outpatient,LasVegas,1,0 kWh,0 kW,0,1004380,$91K,$0.00,$0M,165 kW,0,151067
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Warehouse,Anaheim,1,16 kWh,7 kW,102242,134764,$46K,$30.87,$0M,69 kW,37621.7,66381.5
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Small Office,LasVegas,1,0 kWh,0 kW,19560.6,56750.6,$10K,$12.47,$0M,18 kW,3076.1,15227.1
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Primary School,Seattle,1,0 kWh,0 kW,58053.5,626827,$0K,$2.32,$0M,0 kW,0,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Outpatient,Boulder,1,3 kWh,2 kW,603648,521219,$6K,$18.90,$0M,7 kW,6768,3378
+BES-Large_Load_Delivery_Class_(Secondary),Supermarket,Chicago,1,0 kWh,0 kW,270862,1233140,$20K,$6.73,$0M,36 kW,8154,26800
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Warehouse,Los Angeles,1,12 kWh,6 kW,73893.6,157027,$43K,$17.48,$0M,66 kW,28221.3,72010.9
+GSD-1_(General_Service_Demand),Small Hotel,Miami,1,0 kWh,0 kW,194877,432512,$0K,$10.60,$0M,0 kW,0,0
+LGS-1_-_Large_General_Service,Retail Store,LasVegas,1,0 kWh,0 kW,119708,293177,$62K,$8.57,$0M,113 kW,9448,102133
+3B_General_Power_TOU_(PNM-Owned_Transformer),Medium Office,Albuquerque,1,19 kWh,15 kW,294818,498067,$125K,$17.47,$0M,202 kW,95137,187102
+Schedule_GL_(Secondary_Voltage),Midrise Apartment,Baltimore,1,0 kWh,0 kW,39267.4,200310,$16K,$6.15,$0M,28 kW,675.2,27268
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Small Hotel,Anaheim,1,134 kWh,36 kW,362114,511264,$138K,$38.02,$0M,161 kW,97586,178432
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Small Office,San Francisco,1,17 kWh,4 kW,35515.9,98327.6,$25K,$17.58,$0M,33 kW,14392.7,60587.6
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Fast Food,San Francisco,1,20 kWh,6 kW,87751,164109,$32K,$34.72,$0M,44 kW,20933.2,62107
+Schedule_GL_(Secondary_Voltage),Warehouse,Baltimore,1,0 kWh,0 kW,40094.4,168337,$11K,$6.15,$0M,20 kW,1884.8,18277
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Restaurant,Seattle,1,0 kWh,0 kW,12731.1,196808,$0K,$2.32,$0M,0 kW,0,0
+OGS-TOU-NEM,Midrise Apartment,LasVegas,1,0 kWh,0 kW,0,209594,$13K,$0.00,$0M,23 kW,0,21052
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Outpatient,Seattle,1,0 kWh,0 kW,69748.4,914076,$0K,$2.32,$0M,0 kW,0,0
+Small_General_Service_Metered_(A10),Restaurant,Duluth,1,0 kWh,0 kW,0,300895,$33K,$0.00,$0M,60 kW,0,70480
+Schedule_G_-_Secondary,Large Hotel,Baltimore,1,0 kWh,0 kW,0,2759610,$256K,$0.00,$0M,465 kW,0,599770
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Supermarket,New York,1,321 kWh,81 kW,1290670,1710870,$463K,$41.95,$0M,632 kW,381532,658950
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Large Office,Phoenix,1,0 kWh,0 kW,1064400,5036200,$982K,$6.65,$0M,"1,787 kW",182127,1744410
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Medium Office,Boulder,1,0 kWh,0 kW,138498,758889,$112K,$4.84,$0M,203 kW,7735,227308
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Primary School,San Francisco,1,109 kWh,30 kW,355228,1310060,$260K,$16.78,$0M,399 kW,124174,633239
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Large Hotel,Seattle,1,0 kWh,0 kW,110902,1413890,$0K,$2.32,$0M,0 kW,0,0
+GSEDS-1_Secondary_Non-Demand,Supermarket,Helena,1,0 kWh,0 kW,0,2051790,$297K,$0.00,$0M,539 kW,0,724460
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Hospital,Phoenix,1,0 kWh,0 kW,1016140,6054090,"$1,061K",$6.65,$0M,"1,930 kW",139967,2001800
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Hospital,Seattle,1,0 kWh,0 kW,538955,5396450,$0K,$3.83,$0M,0 kW,0,0
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Fast Food,San Francisco,1,0 kWh,0 kW,0,344665,$27K,$0.00,$0M,49 kW,0,120651
+GSEDS-1_Primary_Demand,Midrise Apartment,Helena,1,0 kWh,0 kW,43998.1,175342,$16K,$7.90,$0M,28 kW,1122.4,26681
+Small_General_Service_Metered_(A10),Large Hotel,Duluth,1,0 kWh,0 kW,0,2113650,$174K,$0.00,$0M,317 kW,0,367420
+OGS-TOU-NEM,Secondary School,LasVegas,1,0 kWh,0 kW,0,2155040,$75K,$0.00,$0M,137 kW,0,125650
+General_Service_With_Demand_Meter_(Rate_Code_25),Outpatient,Minneapolis,1,0 kWh,0 kW,195433,1136420,$118K,$5.86,$0M,214 kW,12515,198953
+BES-Small_Load_Delivery_Class_(Secondary),Fast Food,Chicago,1,0 kWh,0 kW,20614.8,115436,$0K,$6.18,$0M,0 kW,0,0
+Power_and_Light_Medium_Schedule_PLM-11,Small Hotel,Atlanta,1,0 kWh,0 kW,0,344981,$0K,$0.00,$0M,0 kW,0,0
+Schedule_GS_Type_2_(Secondary),Fast Food,Baltimore,1,0 kWh,0 kW,0,176097,$22K,$0.00,$0M,39 kW,0,46354
+Power_and_Light_Medium_Schedule_PLM-11,Restaurant,Atlanta,1,0 kWh,0 kW,0,153356,$0K,$0.00,$0M,0 kW,0,0
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Small Hotel,Anaheim,1,61 kWh,20 kW,300092,528117,$103K,$30.87,$0M,143 kW,46804,163613
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Restaurant,San Francisco,1,30 kWh,8 kW,94332.4,354291,$55K,$17.58,$0M,80 kW,19175.1,157981
+E-61_Standard_Price_Plan_For_Secondary_Large_General_Service,Hospital,Phoenix,1,0 kWh,0 kW,480950,4903670,$476K,$4.16,$0M,865 kW,40615,762150
+BES-Medium_Load_Delivery_Class_(Secondary),Warehouse,Chicago,1,0 kWh,0 kW,43647.5,149727,$0K,$6.29,$0M,0 kW,0,0
+A-6_Small_General_Service_TOU_Single_Phase,Strip Mall,San Francisco,1,201 kWh,32 kW,0,1016670,$186K,$0.00,$0M,229 kW,0,720573
+GSEDS-1_Secondary_Demand,Large Office,Helena,1,0 kWh,0 kW,1419300,4256430,$412K,$9.41,$0M,749 kW,105380,687990
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Retail Store,Seattle,1,0 kWh,0 kW,25852.3,291326,$0K,$2.32,$0M,0 kW,0,0
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Large Hotel,Atlanta,1,0 kWh,0 kW,608504,1445400,$0K,$15.66,$0M,0 kW,0,0
+GSEDS-1_Primary_Non-Demand,Small Hotel,Helena,1,0 kWh,0 kW,0,648913,$60K,$0.00,$0M,110 kW,0,128661
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Secondary School,San Francisco,1,542 kWh,120 kW,1947430,2090720,$726K,$33.72,$0M,985 kW,801160,1090470
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Strip Mall,Miami,1,0 kWh,0 kW,179316,310914,$16K,$9.20,$0M,30 kW,11128,18019
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Warehouse,San Francisco,1,16 kWh,7 kW,63818.6,234781,$47K,$16.78,$0M,72 kW,20562.3,105531
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Primary School,Seattle,1,0 kWh,0 kW,58053.5,607265,$0K,$2.32,$0M,0 kW,0,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Large Hotel,Atlanta,1,0 kWh,0 kW,0,2035750,$0K,$0.00,$0M,0 kW,0,0
+Schedule_MDD_-_Medium_Network_General_Service,Supermarket,Seattle,1,0 kWh,0 kW,164565,1344720,$0K,$4.54,$0M,0 kW,0,0
+LGS-1_-_Large_General_Service,Fast Food,LasVegas,1,0 kWh,0 kW,31506.4,111681,$16K,$8.57,$0M,29 kW,427.2,26757.8
+Small_General_Service_(A-1)(A),Small Office,Los Angeles,1,0 kWh,0 kW,17925.7,97116.1,$17K,$7.48,$0M,31 kW,3854.7,42244.3
+Power_and_Light_Medium_Schedule_PLM-11,Midrise Apartment,Atlanta,1,0 kWh,0 kW,0,123703,$0K,$0.00,$0M,0 kW,0,0
+General_Service_With_Demand_Meter_(Rate_Code_25),Large Office,Minneapolis,1,0 kWh,0 kW,946357,4528380,$319K,$5.86,$0M,581 kW,62477,528740
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Fast Food,Atlanta,1,0 kWh,0 kW,38019.5,106175,$0K,$15.66,$0M,0 kW,0,0
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Supermarket,Anaheim,1,148 kWh,44 kW,658022,1565130,$366K,$17.81,$0M,560 kW,161610,780598
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Outpatient,San Francisco,1,211 kWh,53 kW,515539,1652210,$342K,$17.58,$0M,484 kW,166371,920422
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Fast Food,Anaheim,1,5 kWh,2 kW,33996.1,188865,$27K,$9.97,$0M,45 kW,5195.4,79116
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Primary School,Seattle,1,0 kWh,0 kW,58053.5,628528,$0K,$2.32,$0M,0 kW,0,0
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Supermarket,Anaheim,1,154 kWh,47 kW,917052,1321010,$353K,$34.91,$0M,531 kW,252321,578444
+BES-Medium_Load_Delivery_Class_(Secondary),Fast Food,Chicago,1,0 kWh,0 kW,20981.7,115436,$0K,$6.29,$0M,0 kW,0,0
+GSEDS-1_Secondary_Non-Demand,Primary School,Helena,1,0 kWh,0 kW,0,1036240,$145K,$0.00,$0M,263 kW,0,310419
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Restaurant,Atlanta,1,0 kWh,0 kW,0,265670,$0K,$0.00,$0M,0 kW,0,0
+Large_Light_&_Power_-_Primary_voltage_discount,Small Hotel,Minneapolis,1,0 kWh,0 kW,0,446713,$0K,$7.55,$0M,0 kW,0,0
+GSLD-1_(General_Service_Large_Demand),Hospital,Miami,1,0 kWh,0 kW,2155810,4078380,$0K,$12.56,$0M,0 kW,0,0
+E-36_Standard_Price_Plan_for_General_Service,Fast Food,Phoenix,1,0 kWh,0 kW,19111.3,129780,$21K,$6.76,$0M,38 kW,628.3,38467.9
+Schedule_MDC_-_Medium_Standard_General_Service_City,Outpatient,Seattle,1,0 kWh,0 kW,69748.4,837180,$0K,$2.32,$0M,0 kW,0,0
+Large_Light_&_Power_-_Primary_voltage_discount,Strip Mall,Minneapolis,1,0 kWh,0 kW,0,295036,$0K,$7.55,$0M,0 kW,0,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Supermarket,Seattle,1,0 kWh,0 kW,84094.8,1154010,$0K,$2.32,$0M,0 kW,0,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Retail Store,Boulder,1,1 kWh,1 kW,216125,162045,$1K,$18.90,$0M,1 kW,1931,436
+GSEDS-1_Secondary_Non-Demand,Retail Store,Helena,1,0 kWh,0 kW,0,557393,$95K,$0.00,$0M,174 kW,0,232074
+Small_General_Service_Metered_(A10),Warehouse,Duluth,1,0 kWh,0 kW,0,240773,$26K,$0.00,$0M,47 kW,0,49208
+BES-Large_Load_Delivery_Class_(Secondary),Primary School,Chicago,1,0 kWh,0 kW,193662,636797,$10K,$6.73,$0M,18 kW,3795,13859
+GSD-1_(General_Service_Demand),Small Office,Miami,1,0 kWh,0 kW,30077.7,48173,$1K,$10.60,$0M,2 kW,656.7,1187.7
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Hospital,Boulder,1,10 kWh,8 kW,2573110,2661400,$7K,$18.90,$0M,0 kW,12100,60
+GSEDS-1_Primary_Non-Demand,Fast Food,Helena,1,0 kWh,0 kW,0,165276,$21K,$0.00,$0M,38 kW,0,44927
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Large Office,New York,1,941 kWh,284 kW,5300040,5793530,"$1,713K",$41.95,$1M,"2,444 kW",1630530,2323730
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Warehouse,Anaheim,1,33 kWh,11 kW,123807,130793,$55K,$38.02,$0M,75 kW,55172.8,70825.7
+Schedule_G_-_Secondary,Supermarket,Baltimore,1,0 kWh,0 kW,0,2198960,$310K,$0.00,$0M,563 kW,0,747200
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Retail Store,Seattle,1,0 kWh,0 kW,25852.3,290537,$0K,$2.32,$0M,0 kW,0,0
+General_Service_(A14),Large Hotel,Duluth,1,0 kWh,0 kW,608578,1181300,$0K,$14.98,$0M,0 kW,0,0
+Schedule_GL_(Secondary_Voltage),Retail Store,Baltimore,1,0 kWh,0 kW,81945,376143,$67K,$6.15,$0M,123 kW,8162.1,116525
+GS-2_(S)_Large_General_Service_Secondary,Secondary School,Fairbanks,1,7 kWh,5 kW,632490,3773810,$438K,$11.06,$0M,788 kW,70833,998300
+GSEDS-1_Secondary_Demand,Warehouse,Helena,1,0 kWh,0 kW,63736.7,178856,$18K,$9.41,$0M,33 kW,4691.9,28974
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Supermarket,Atlanta,1,0 kWh,0 kW,454779,1155560,$20K,$15.66,$0M,36 kW,11576,23580
+BES-Medium_Load_Delivery_Class_(Secondary),Hospital,Chicago,1,0 kWh,0 kW,958188,5216790,$0K,$6.29,$0M,0 kW,0,0
+E-36_Standard_Price_Plan_for_General_Service,Warehouse,Phoenix,1,0 kWh,0 kW,34339.7,145100,$19K,$6.76,$0M,35 kW,4744.2,31252
+BES-Large_Load_Delivery_Class_(Secondary),Fast Food,Chicago,1,0 kWh,0 kW,22449.4,115436,$0K,$6.73,$0M,0 kW,0,0
+BES-Medium_Load_Delivery_Class_(Secondary),Retail Store,Chicago,1,0 kWh,0 kW,81789.6,312438,$0K,$6.29,$0M,0 kW,0,0
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Warehouse,Miami,1,0 kWh,0 kW,62506.2,90616.5,$1K,$9.20,$0M,2 kW,807.4,1391.6
+BES-Large_Load_Delivery_Class_(Secondary),Large Office,Chicago,1,0 kWh,0 kW,1115840,3877110,$0K,$6.73,$0M,0 kW,0,0
+GSD-1_(General_Service_Demand),Supermarket,Miami,1,0 kWh,0 kW,452654,1005960,$21K,$10.60,$0M,39 kW,17341,24152
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Supermarket,Anaheim,1,143 kWh,44 kW,910780,1154970,$339K,$36.38,$0M,514 kW,252100,496429
+GSEDS-1_Primary_Demand,Strip Mall,Helena,1,0 kWh,0 kW,96703.3,349417,$68K,$7.90,$0M,123 kW,9774.3,114494
+GS-2_(S)_Large_General_Service_Secondary,Hospital,Fairbanks,1,5 kWh,4 kW,1554790,12713300,"$1,287K",$11.06,$1M,"2,336 kW",121850,3287880
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Supermarket,LasVegas,1,0 kWh,0 kW,379646,994666,$117K,$16.49,$0M,213 kW,34809,179941
+BES-Small_Load_Delivery_Class_(Secondary),Midrise Apartment,Chicago,1,0 kWh,0 kW,37432.9,161657,$0K,$6.18,$0M,0 kW,0,0
+General_Service_(A14),Secondary School,Duluth,1,0 kWh,0 kW,829674,1235180,$40K,$14.98,$0M,72 kW,25121,48690
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Supermarket,San Francisco,1,176 kWh,50 kW,471299,2348400,$384K,$16.78,$0M,576 kW,138017,1087830
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Medium Office,Anaheim,1,120 kWh,42 kW,405626,732000,$227K,$17.81,$0M,322 kW,130328,412948
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Small Office,San Francisco,1,24 kWh,6 kW,59611.5,73476.3,$28K,$34.72,$0M,34 kW,29420.9,41427.8
+LGS-1_-_Large_General_Service,Warehouse,LasVegas,1,0 kWh,0 kW,59926.1,127138,$16K,$8.57,$0M,30 kW,4938.6,24870
+General_Service_(A14),Retail Store,Duluth,1,0 kWh,0 kW,157689,281874,$3K,$14.98,$0M,5 kW,1322,3229
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Strip Mall,Boulder,1,1 kWh,1 kW,211746,159080,$2K,$18.90,$0M,2 kW,2292,879
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Primary School,Boulder,1,5 kWh,4 kW,473343,327273,$24K,$18.90,$0M,36 kW,26921,17402
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary),Large Hotel,San Francisco,1,505 kWh,119 kW,804572,2429340,$464K,$17.58,$0M,523 kW,209496,1028570
+3B_General_Power_TOU_(PNM-Owned_Transformer),Outpatient,Albuquerque,1,39 kWh,31 kW,444772,896443,$226K,$17.47,$0M,360 kW,113195,351140
+E-36_Standard_Price_Plan_for_General_Service,Outpatient,Phoenix,1,0 kWh,0 kW,200751,1110710,$199K,$6.76,$0M,362 kW,32781,351751
+GS-2_(S)_Large_General_Service_Secondary,Primary School,Fairbanks,1,4 kWh,3 kW,253207,1587120,$181K,$11.06,$0M,324 kW,31033,414890
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Retail Store,Anaheim,1,60 kWh,18 kW,170539,498369,$127K,$13.20,$0M,188 kW,54663,296961
+GS-2_(S)_Large_General_Service_Secondary,Strip Mall,Fairbanks,1,0 kWh,0 kW,135849,877801,$115K,$11.06,$0M,209 kW,11961,292964
+GSEDS-1_Secondary_Demand,Strip Mall,Helena,1,0 kWh,0 kW,115225,356993,$71K,$9.41,$0M,129 kW,12012,121866
+General_Service_With_Demand_Meter_(Rate_Code_25),Midrise Apartment,Minneapolis,1,0 kWh,0 kW,36661.7,191989,$15K,$5.86,$0M,27 kW,439.1,25178
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Medium Office,Seattle,1,0 kWh,0 kW,60768.6,559841,$0K,$2.32,$0M,0 kW,0,0
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Midrise Apartment,Anaheim,1,31 kWh,8 kW,71504.3,228402,$43K,$13.20,$0M,57 kW,14204.6,90075
+BES-Medium_Load_Delivery_Class_(Secondary),Secondary School,Chicago,1,0 kWh,0 kW,524032,1563540,$58K,$6.29,$0M,106 kW,19406,79370
+A-6_Small_General_Service_TOU_Single_Phase,Secondary School,San Francisco,1,840 kWh,136 kW,0,5235560,$911K,$0.00,$1M,"1,195 kW",0,3332600
+General_Service_With_Demand_Meter_(Rate_Code_25),Primary School,Minneapolis,1,0 kWh,0 kW,157300,734304,$50K,$5.86,$0M,91 kW,11584,84034
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Supermarket,San Francisco,1,299 kWh,75 kW,1009990,1688340,$424K,$34.72,$0M,575 kW,355810,801105
+Schedule_G_-_Secondary,Large Office,Baltimore,1,0 kWh,0 kW,0,7447200,"$1,103K",$0.00,$0M,"2,006 kW",0,2465860
+A-6_Small_General_Service_TOU_Single_Phase,Restaurant,San Francisco,1,100 kWh,16 kW,0,642668,$90K,$0.00,$0M,109 kW,0,338559
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Small Hotel,Los Angeles,1,21 kWh,9 kW,202351,632236,$86K,$17.48,$0M,138 kW,29837,180260
+GSEDS-1_Secondary_Demand,Restaurant,Helena,1,0 kWh,0 kW,53323.6,230623,$31K,$9.41,$0M,56 kW,3297,53519
+3B_General_Power_TOU_(PNM-Owned_Transformer),Primary School,Albuquerque,1,12 kWh,10 kW,347398,613618,$156K,$17.47,$0M,268 kW,87440,239268
+BES-Small_Load_Delivery_Class_(Secondary),Large Office,Chicago,1,0 kWh,0 kW,1024650,3877110,$0K,$6.18,$0M,0 kW,0,0
+GSEDS-1_Primary_Demand,Retail Store,Helena,1,0 kWh,0 kW,101965,371241,$74K,$7.90,$0M,134 kW,10472.6,125573
+GSEDS-1_Primary_Non-Demand,Retail Store,Helena,1,0 kWh,0 kW,0,475650,$87K,$0.00,$0M,158 kW,0,185218
+OGS-TOU-NEM,Hospital,LasVegas,1,0 kWh,0 kW,0,4845280,$632K,$0.00,$0M,"1,149 kW",0,1052550
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Warehouse,Boulder,1,0 kWh,0 kW,32395.3,214114,$35K,$4.84,$0M,64 kW,3029.1,68289
+Schedule_LGC_-_Large_Standard_General_Service_City,Large Office,Seattle,1,0 kWh,0 kW,335849,3628290,$0K,$2.08,$0M,0 kW,0,0
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Primary School,New York,1,212 kWh,56 kW,942290,913007,$286K,$41.95,$0M,379 kW,307736,352830
+Small_General_Service_Metered_(A10),Strip Mall,Duluth,1,0 kWh,0 kW,0,472395,$76K,$0.00,$0M,139 kW,0,160413
+OGS-TOU-NEM,Supermarket,LasVegas,1,0 kWh,0 kW,0,1168430,$145K,$0.00,$0M,263 kW,0,240789
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Hospital,New York,1,652 kWh,231 kW,4673850,7538580,"$1,521K",$41.95,$1M,"2,262 kW",1079160,2383470
+Large_Light_&_Power_-_Primary_voltage_discount,Restaurant,Minneapolis,1,0 kWh,0 kW,0,190849,$0K,$7.55,$0M,0 kW,0,0
+Large_Light_&_Power_-_Primary_voltage_discount,Fast Food,Minneapolis,1,0 kWh,0 kW,0,108636,$0K,$7.55,$0M,0 kW,0,0
+BES-Large_Load_Delivery_Class_(Secondary),Restaurant,Chicago,1,0 kWh,0 kW,40709.6,203169,$0K,$6.73,$0M,0 kW,0,0
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Supermarket,San Francisco,1,111 kWh,39 kW,471299,2346650,$351K,$16.78,$0M,553 kW,122804,991690
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Outpatient,Atlanta,1,0 kWh,0 kW,0,1236820,$0K,$0.00,$0M,0 kW,0,0
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Primary School,Anaheim,1,98 kWh,30 kW,586492,929808,$258K,$17.81,$0M,399 kW,211562,487397
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Primary School,Atlanta,1,0 kWh,0 kW,0,857449,$0K,$0.00,$0M,0 kW,0,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Midrise Apartment,Atlanta,1,0 kWh,0 kW,0,225661,$0K,$0.00,$0M,0 kW,0,0
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Retail Store,San Francisco,1,62 kWh,16 kW,150935,586117,$120K,$16.78,$0M,177 kW,48389,328476
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Primary School,Atlanta,1,0 kWh,0 kW,358038,640590,$25K,$15.66,$0M,45 kW,16911,29910
+OGS-TOU-NEM,Restaurant,LasVegas,1,0 kWh,0 kW,0,210593,$25K,$0.00,$0M,46 kW,0,42324
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Medium Office,Seattle,1,0 kWh,0 kW,60768.6,542370,$0K,$2.32,$0M,0 kW,0,0
+Schedule_G_-_Secondary,Fast Food,Baltimore,1,0 kWh,0 kW,0,210090,$24K,$0.00,$0M,44 kW,0,59177
+Schedule_MDD_-_Medium_Network_General_Service,Large Hotel,Seattle,1,0 kWh,0 kW,217024,1591830,$0K,$4.54,$0M,0 kW,0,0
+3B_General_Power_TOU_(PNM-Owned_Transformer),Warehouse,Albuquerque,1,0 kWh,0 kW,17314.1,127228,$33K,$17.47,$0M,59 kW,11767.52,52294.3
+Small_General_Service_Metered_(A10),Hospital,Duluth,1,0 kWh,0 kW,0,7678270,$933K,$0.00,$0M,"1,696 kW",0,1954510
+GSEDS-1_Primary_Non-Demand,Restaurant,Helena,1,0 kWh,0 kW,0,289214,$36K,$0.00,$0M,66 kW,0,76939
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Small Office,San Francisco,1,11 kWh,3 kW,27798.1,101643,$22K,$16.78,$0M,32 kW,10163.2,52020.3
+BES-Large_Load_Delivery_Class_(Secondary),Small Hotel,Chicago,1,0 kWh,0 kW,106246,462529,$0K,$6.73,$0M,0 kW,0,0
+Large_Light_&_Power_-_Primary_voltage_discount,Large Office,Minneapolis,1,0 kWh,0 kW,0,3637210,$0K,$7.55,$0M,0 kW,0,0
+GSD-1_(General_Service_Demand),Strip Mall,Miami,1,0 kWh,0 kW,186219,300685,$12K,$10.60,$0M,23 kW,8887,13995
+GSEDS-1_Primary_Non-Demand,Supermarket,Helena,1,0 kWh,0 kW,0,1750900,$269K,$0.00,$0M,490 kW,0,576360
+BES-Medium_Load_Delivery_Class_(Secondary),Strip Mall,Chicago,1,0 kWh,0 kW,81506.8,308644,$0K,$6.29,$0M,0 kW,0,0
+GSEDS-1_Secondary_Non-Demand,Restaurant,Helena,1,0 kWh,0 kW,0,338916,$40K,$0.00,$0M,73 kW,0,97179
+Schedule_P,Hospital,Baltimore,1,0 kWh,0 kW,830160,5635050,$38K,$5.31,$0M,69 kW,6104,57850
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Midrise Apartment,San Francisco,1,14 kWh,4 kW,66161,291120,$29K,$16.78,$0M,43 kW,8208.5,74839
+E-36_Standard_Price_Plan_for_General_Service,Small Hotel,Phoenix,1,0 kWh,0 kW,86804.4,529627,$62K,$6.76,$0M,112 kW,58.7,112821
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Medium Office,Boulder,1,11 kWh,9 kW,481085,284311,$10K,$18.90,$0M,3 kW,15225,1456
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Restaurant,Phoenix,1,0 kWh,0 kW,46990.3,264101,$40K,$6.65,$0M,73 kW,3285.5,76788
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Restaurant,Boulder,1,0 kWh,0 kW,28892.4,291469,$37K,$4.84,$0M,67 kW,1506.8,83680
+General_Service_(A14),Warehouse,Duluth,1,0 kWh,0 kW,82235.8,135818,$1K,$14.98,$0M,2 kW,404.9,1110
+Schedule_MDD_-_Medium_Network_General_Service,Medium Office,Seattle,1,0 kWh,0 kW,118918,632005,$0K,$4.54,$0M,0 kW,0,0
+E-36_Standard_Price_Plan_for_General_Service,Restaurant,Phoenix,1,0 kWh,0 kW,36160,234074,$36K,$6.76,$0M,66 kW,2103.5,66115
+GSEDS-1_Primary_Non-Demand,Secondary School,Helena,1,0 kWh,0 kW,0,2096260,$197K,$0.00,$0M,359 kW,0,391370
+GLSDT-1_(General_Service_Large_Demand_-_Time-Of-Use),Large Hotel,Miami,1,0 kWh,0 kW,817410,1394340,$0K,$11.00,$0M,0 kW,0,0
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Fast Food,Atlanta,1,0 kWh,0 kW,0,146315,$0K,$0.00,$0M,0 kW,0,0
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Small Office,Boulder,1,0 kWh,0 kW,10630.9,72090.8,$11K,$4.84,$0M,21 kW,1222.67,22332.5
+A-6_Small_General_Service_TOU_Single_Phase,Retail Store,San Francisco,1,197 kWh,32 kW,0,1003760,$185K,$0.00,$0M,229 kW,0,717678
+A-6_Small_General_Service_TOU_Single_Phase,Primary School,San Francisco,1,342 kWh,57 kW,0,2226570,$376K,$0.00,$1M,495 kW,0,1386222
+A-6_Small_General_Service_TOU_Single_Phase,Small Office,San Francisco,1,25 kWh,4 kW,0,173289,$29K,$0.00,$0M,38 kW,0,111310.7
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Primary School,Anaheim,1,28 kWh,12 kW,363882,1088930,$233K,$11.05,$0M,400 kW,112066,542556
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Medium Office,New York,1,0 kWh,0 kW,0,1093940,$152K,$21.82,$0M,277 kW,0,353616
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Retail Store,Anaheim,1,42 kWh,12 kW,128808,554336,$120K,$9.97,$0M,189 kW,35268.5,324191
+GSEDS-1_Secondary_Non-Demand,Large Office,Helena,1,0 kWh,0 kW,0,6255120,"$1,003K",$0.00,$0M,"1,825 kW",0,2195120
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Restaurant,San Francisco,1,0 kWh,0 kW,0,594406,$50K,$0.00,$0M,91 kW,0,212308
+3B_General_Power_TOU_(PNM-Owned_Transformer),Hospital,Albuquerque,1,81 kWh,64 kW,2129230,4477310,$990K,$17.47,$0M,"1,696 kW",277410,1680060
+BES-Small_Load_Delivery_Class_(Secondary),Supermarket,Chicago,1,0 kWh,0 kW,248726,1233140,$19K,$6.18,$0M,35 kW,7352,26130
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Hospital,LasVegas,1,0 kWh,0 kW,1156200,4863610,$865K,$12.47,$0M,"1,573 kW",112630,1463900
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Strip Mall,Los Angeles,1,24 kWh,10 kW,201849,429969,$104K,$17.48,$0M,169 kW,64893,215483
+Schedule_MDD_-_Medium_Network_General_Service,Restaurant,Seattle,1,0 kWh,0 kW,24913.5,229333,$0K,$4.54,$0M,0 kW,0,0
+LGS-1_-_Large_General_Service,Outpatient,LasVegas,1,0 kWh,0 kW,319348,972084,$149K,$8.57,$0M,271 kW,22469,244608
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Small Office,Anaheim,1,12 kWh,4 kW,50922.2,65657.3,$24K,$30.87,$0M,34 kW,21308.6,33709
+GS-1_General_Service,Fast Food,Fairbanks,1,0 kWh,0 kW,0,288195,$25K,$0.00,$0M,46 kW,0,64865
+GSEDS-1_Primary_Non-Demand,Midrise Apartment,Helena,1,0 kWh,0 kW,0,224656,$19K,$0.00,$0M,35 kW,0,40621
+Schedule_MDD_-_Medium_Network_General_Service,Primary School,Seattle,1,0 kWh,0 kW,113605,707625,$0K,$4.54,$0M,0 kW,0,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Outpatient,Seattle,1,0 kWh,0 kW,69748.4,885550,$0K,$2.32,$0M,0 kW,0,0
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Medium Office,Phoenix,1,0 kWh,0 kW,176085,722767,$134K,$6.65,$0M,244 kW,37571,236582
+Large_Light_&_Power_-_Primary_voltage_discount,Secondary School,Minneapolis,1,0 kWh,0 kW,0,1441030,$0K,$7.55,$0M,0 kW,0,0
+GSEDS-1_Primary_Demand,Fast Food,Helena,1,0 kWh,0 kW,24997.6,128997,$17K,$7.90,$0M,31 kW,919.7,29059.4
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Outpatient,Miami,1,0 kWh,0 kW,402650,854257,$13K,$9.20,$0M,23 kW,8619,13828
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_A_(Under_2kV),Outpatient,Anaheim,1,123 kWh,43 kW,619829,1250480,$317K,$17.81,$0M,482 kW,182481,639743
+GSEDS-1_Primary_Demand,Large Office,Helena,1,0 kWh,0 kW,1191160,4166100,$345K,$7.90,$0M,628 kW,80380,573210
+GS-2_(S)_Large_General_Service_Secondary,Outpatient,Fairbanks,1,3 kWh,3 kW,376861,2607740,$264K,$11.06,$0M,475 kW,27370,654890
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Small Office,New York,1,0 kWh,0 kW,0,99628.5,$15K,$21.82,$0M,26 kW,0,32809.5
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Warehouse,San Francisco,1,19 kWh,7 kW,63818.6,237498,$49K,$16.78,$0M,74 kW,21762.5,118338
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Midrise Apartment,San Francisco,1,29 kWh,7 kW,66161,284320,$37K,$16.78,$0M,48 kW,11923.3,87632
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Restaurant,Boulder,1,0 kWh,0 kW,101968,107333,$1K,$18.90,$0M,0 kW,674,218
+3B_General_Power_TOU_(PNM-Owned_Transformer),Restaurant,Albuquerque,1,3 kWh,2 kW,19857.1,191308,$37K,$17.47,$0M,63 kW,6960.4,63464
+BES-Medium_Load_Delivery_Class_(Secondary),Outpatient,Chicago,1,0 kWh,0 kW,210554,966539,$0K,$6.29,$0M,0 kW,0,0
+General_Service_With_Demand_Meter_(Rate_Code_25),Small Office,Minneapolis,1,0 kWh,0 kW,12717.7,61686.8,$4K,$5.86,$0M,7 kW,753.3,6254.7
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Warehouse,Phoenix,1,0 kWh,0 kW,42083.6,164531,$32K,$6.65,$0M,59 kW,8768.7,55056
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_R_(under_2kV),Secondary School,Anaheim,1,262 kWh,77 kW,1394070,2340960,$655K,$16.23,$0M,"1,006 kW",497687,1254690
+Power_and_Light_Medium_Schedule_PLM-11,Retail Store,Atlanta,1,0 kWh,0 kW,0,235549,$0K,$0.00,$0M,0 kW,0,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Large Office,Boulder,1,56 kWh,45 kW,2619570,1968940,$84K,$18.90,$0M,81 kW,111750,38540
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Large Hotel,LasVegas,1,0 kWh,0 kW,435873,1605550,$153K,$12.47,$0M,278 kW,485,260580
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Primary School,LasVegas,1,0 kWh,0 kW,256899,708888,$89K,$12.47,$0M,162 kW,34714,144937
+Schedule_MDC_-_Medium_Standard_General_Service_City,Secondary School,Seattle,1,0 kWh,0 kW,147362,1332630,$0K,$2.32,$0M,0 kW,0,0
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Outpatient,San Francisco,1,271 kWh,70 kW,853761,1275500,$367K,$34.72,$0M,487 kW,331828,634989
+OGS-TOU-NEM,Medium Office,LasVegas,1,0 kWh,0 kW,0,607281,$14K,$0.00,$0M,26 kW,0,23824
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Strip Mall,Anaheim,1,113 kWh,26 kW,337218,362119,$142K,$38.02,$0M,186 kW,149315,205275
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Restaurant,Anaheim,1,13 kWh,4 kW,65901.3,356907,$53K,$9.97,$0M,86 kW,13437,149887
+BES-Large_Load_Delivery_Class_(Secondary),Midrise Apartment,Chicago,1,0 kWh,0 kW,40764.3,161657,$0K,$6.73,$0M,0 kW,0,0
+A-1-Small_General_Service-Non-Time_of_Use_Rate_(Single-Phase),Midrise Apartment,San Francisco,1,0 kWh,0 kW,0,429769,$29K,$0.00,$0M,53 kW,0,114759
+SC-9_-_General_Large_TOD_Service_[NYC],Large Office,New York,1,"2,003 kWh",399 kW,7658200,5025000,"$2,266K",$54.31,$1M,"2,934 kW",2972380,2364920
+General_Service_With_Demand_Meter_(Rate_Code_25),Fast Food,Minneapolis,1,0 kWh,0 kW,19237.2,135253,$16K,$5.86,$0M,30 kW,334.9,27728
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Outpatient,San Francisco,1,136 kWh,38 kW,400082,1772560,$308K,$16.78,$0M,467 kW,116885,832747
+Schedule_SMC_-_Small_General_Service_City,Fast Food,Seattle,1,0 kWh,0 kW,0,135037,$0K,$0.00,$0M,0 kW,0,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Retail Store,Anaheim,1,113 kWh,26 kW,331408,358678,$141K,$38.02,$0M,185 kW,139959,204546
+OGS-TOU-NEM,Small Hotel,LasVegas,1,0 kWh,0 kW,0,445712,$41K,$0.00,$0M,74 kW,0,67850
+GSD-1_(General_Service_Demand),Medium Office,Miami,1,0 kWh,0 kW,286797,454376,$6K,$10.60,$0M,11 kW,3972,6802
+BES-Small_Load_Delivery_Class_(Secondary),Outpatient,Chicago,1,0 kWh,0 kW,206871,966539,$0K,$6.18,$0M,0 kW,0,0
+A-6_Small_General_Service_TOU_Single_Phase,Warehouse,San Francisco,1,32 kWh,5 kW,0,397701,$56K,$0.00,$0M,84 kW,0,234861
+E-36_Standard_Price_Plan_for_General_Service,Secondary School,Phoenix,1,0 kWh,0 kW,556743,2104310,$239K,$6.76,$0M,434 kW,70488,407880
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Fast Food,Anaheim,1,6 kWh,2 kW,45009.8,167767,$27K,$13.20,$0M,44 kW,7142.9,70717.6
+2A_(Small_Power_Service),Small Office,Albuquerque,1,0 kWh,0 kW,0,89940.7,$15K,$0.00,$0M,27 kW,0,36947.9
+GSEDS-1_Secondary_Non-Demand,Hospital,Helena,1,0 kWh,0 kW,0,8407390,"$1,077K",$0.00,$1M,"1,959 kW",0,2602460
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Retail Store,Los Angeles,1,22 kWh,9 kW,197939,425422,$102K,$17.48,$0M,167 kW,57801,214422
+BES-Small_Load_Delivery_Class_(Secondary),Warehouse,Chicago,1,0 kWh,0 kW,42884.2,149727,$0K,$6.18,$0M,0 kW,0,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Retail Store,Seattle,1,0 kWh,0 kW,25852.3,266096,$0K,$2.32,$0M,0 kW,0,0
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Outpatient,Anaheim,1,59 kWh,24 kW,384565,1477850,$288K,$11.05,$0M,476 kW,92947,715249
+Schedule_G_-_Secondary,Midrise Apartment,Baltimore,1,0 kWh,0 kW,0,297539,$23K,$0.00,$0M,43 kW,0,55847
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Small Office,New York,1,12 kWh,4 kW,69711.1,72971.6,$24K,$41.95,$0M,34 kW,24364.4,30197.9
+3B_General_Power_TOU_(PNM-Owned_Transformer),Secondary School,Albuquerque,1,27 kWh,21 kW,1049350,1516130,$372K,$17.47,$0M,641 kW,216212,568850
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Outpatient,New York,1,0 kWh,0 kW,0,1878060,$249K,$21.82,$0M,454 kW,0,620040
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Large Office,LasVegas,1,0 kWh,0 kW,1244510,3922530,$563K,$12.47,$0M,"1,023 kW",146660,917470
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Medium Office,Atlanta,1,0 kWh,0 kW,283352,519433,$14K,$15.66,$0M,26 kW,7265,17276
+BES-Large_Load_Delivery_Class_(Secondary),Large Hotel,Chicago,1,0 kWh,0 kW,351664,1461900,$0K,$6.73,$0M,0 kW,0,0
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Supermarket,Anaheim,1,60 kWh,22 kW,408262,1846380,$330K,$11.05,$0M,554 kW,74894,873704
+Schedule_MDD_-_Medium_Network_General_Service,Midrise Apartment,Seattle,1,0 kWh,0 kW,23920.6,170696,$0K,$4.54,$0M,0 kW,0,0
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Midrise Apartment,Seattle,1,0 kWh,0 kW,12223.7,151615,$0K,$2.32,$0M,0 kW,0,0
+Schedule_MDD_-_Medium_Network_General_Service,Outpatient,Seattle,1,0 kWh,0 kW,136490,1031900,$0K,$4.54,$0M,0 kW,0,0
+General_Service_(A14),Strip Mall,Duluth,1,0 kWh,0 kW,149852,265183,$3K,$14.98,$0M,5 kW,1470,3487
+BES-Small_Load_Delivery_Class_(Secondary),Restaurant,Chicago,1,0 kWh,0 kW,37382.7,203169,$0K,$6.18,$0M,0 kW,0,0
+Time_of_Use_General_Service_Demand_Metered_Option_B_GS-2_TOU_B_Single_Phase,Fast Food,Anaheim,1,8 kWh,3 kW,70836.8,133816,$27K,$30.87,$0M,42 kW,14709.3,48473.9
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Medium Office,Miami,1,0 kWh,0 kW,281745,478136,$10K,$9.20,$0M,18 kW,6185,10955
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Outpatient,Los Angeles,1,49 kWh,22 kW,519453,1337890,$266K,$17.48,$0M,439 kW,144696,548479
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_R_(2kV_to_50kV),Medium Office,Anaheim,1,53 kWh,22 kW,251665,855019,$197K,$11.05,$0M,313 kW,60580,447270
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Secondary School,Atlanta,1,0 kWh,0 kW,1069300,1691890,$56K,$15.66,$0M,103 kW,39420,67890
+E-63_STANDARD_PRICE_PLAN_FOR_PRIMARY_LARGE_GENERAL_SERVICE,Large Office,Phoenix,1,0 kWh,0 kW,482659,4059480,$193K,$4.12,$0M,351 kW,29242,306020
+General_Service_(A14),Restaurant,Duluth,1,0 kWh,0 kW,67941.5,168787,$0K,$14.98,$0M,0 kW,0,0
+Schedule_MDC_-_Medium_Standard_General_Service_City,Large Hotel,Seattle,1,0 kWh,0 kW,110902,1291450,$0K,$2.32,$0M,0 kW,0,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Restaurant,LasVegas,1,0 kWh,0 kW,52294,215992,$31K,$12.47,$0M,56 kW,1364.9,52760
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Small Office,Miami,1,0 kWh,0 kW,29330.7,50198.8,$1K,$9.20,$0M,3 kW,977.4,1614
+OGS-TOU-NEM,Large Office,LasVegas,1,0 kWh,0 kW,0,4114230,$158K,$0.00,$0M,287 kW,0,263240
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Large Office,Atlanta,1,0 kWh,0 kW,1894340,3955800,$66K,$15.66,$0M,120 kW,40350,79580
+BES-Large_Load_Delivery_Class_(Secondary),Outpatient,Chicago,1,0 kWh,0 kW,225282,966539,$0K,$6.73,$0M,0 kW,0,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Secondary School,LasVegas,1,0 kWh,0 kW,764226,1970550,$230K,$12.47,$0M,419 kW,82007,370080
+E-36_Standard_Price_Plan_for_General_Service,Supermarket,Phoenix,1,0 kWh,0 kW,200579,1234930,$232K,$6.76,$0M,423 kW,22952,423419
+LGS-1_-_Large_General_Service,Midrise Apartment,LasVegas,1,0 kWh,0 kW,63880.7,178447,$14K,$8.57,$0M,25 kW,636,22884
+GSEDS-1_Primary_Non-Demand,Large Hotel,Helena,1,0 kWh,0 kW,0,1997290,$187K,$0.00,$0M,339 kW,0,397460
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Small Hotel,Boulder,1,0 kWh,0 kW,73088.8,642410,$59K,$4.84,$0M,107 kW,0,133967
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Small Hotel,Atlanta,1,0 kWh,0 kW,0,594299,$0K,$0.00,$0M,0 kW,0,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Large Hotel,Seattle,1,0 kWh,0 kW,110902,1410070,$0K,$2.32,$0M,0 kW,0,0
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Supermarket,Boulder,1,0 kWh,0 kW,184372,1683090,$256K,$4.84,$0M,466 kW,19480,585590
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Small Office,Anaheim,1,14 kWh,5 kW,61646.5,63933.9,$25K,$38.02,$0M,35 kW,27129.3,34099.9
+Large_Light_&_Power_-_Primary_voltage_discount,Hospital,Minneapolis,1,0 kWh,0 kW,0,4858930,$0K,$7.55,$0M,0 kW,0,0
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Strip Mall,Atlanta,1,0 kWh,0 kW,157202,304740,$8K,$15.66,$0M,15 kW,4750,9723
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Large Hotel,Phoenix,1,0 kWh,0 kW,383272,2028600,$225K,$6.65,$0M,410 kW,2440,427030
+Schedule_TOU-GSD-10_Time_Of_Use_-_General_Service_Demand,Retail Store,Atlanta,1,0 kWh,0 kW,160886,313579,$7K,$15.66,$0M,12 kW,3780,8174
+Schedule_G_-_Secondary,Warehouse,Baltimore,1,0 kWh,0 kW,0,250359,$38K,$0.00,$0M,70 kW,0,81090
+4B_Large_Power_TOU_(PNM-Owned_Transformer),Large Hotel,Albuquerque,1,0 kWh,0 kW,34434.4,1073900,$0K,$17.47,$0M,0 kW,0,0
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Primary School,Boulder,1,0 kWh,0 kW,134703,873673,$133K,$4.84,$0M,241 kW,19100,261873
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Strip Mall,Atlanta,1,0 kWh,0 kW,0,411944,$0K,$0.00,$0M,0 kW,0,0
+Schedule_G_-_Secondary,Outpatient,Baltimore,1,0 kWh,0 kW,0,1768540,$237K,$0.00,$0M,431 kW,0,559330
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Hospital,Anaheim,1,705 kWh,222 kW,2333560,7805370,"$1,607K",$15.57,$1M,"2,410 kW",551890,3877090
+3B_General_Power_TOU_(PNM-Owned_Transformer),Supermarket,Albuquerque,1,12 kWh,9 kW,462980,1058160,$228K,$17.47,$0M,399 kW,65258,400780
+GSEDS-1_Primary_Non-Demand,Medium Office,Helena,1,0 kWh,0 kW,0,827492,$111K,$0.00,$0M,201 kW,0,214364
+Time-of-use_-_General_Service_-_Demand_Metered_TOU-GS-3_Option_B_(2kv-50kv),Primary School,Anaheim,1,118 kWh,35 kW,779879,777861,$248K,$34.91,$0M,367 kW,318129,350302
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Secondary School,Los Angeles,1,68 kWh,36 kW,1293310,2270750,$541K,$17.48,$0M,918 kW,461982,1010850
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Warehouse,San Francisco,1,27 kWh,9 kW,82372.7,223518,$53K,$17.58,$0M,75 kW,29003.1,133296.9
+LGS-3_Large_General_Service_(Secondary_Distribution_Voltage),Large Office,LasVegas,1,0 kWh,0 kW,1803260,3197920,$419K,$16.30,$0M,762 kW,191110,593890
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Large Office,San Francisco,1,"1,336 kWh",350 kW,4220360,5458470,"$1,833K",$33.72,$1M,"2,444 kW",1642270,2908960
+GS-2_(S)_Large_General_Service_Secondary,Large Office,Fairbanks,1,44 kWh,35 kW,1629530,9586230,"$1,234K",$11.06,$1M,"2,187 kW",167040,2846550
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Secondary School,Seattle,1,0 kWh,0 kW,147362,1455040,$0K,$2.32,$0M,0 kW,0,0
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Outpatient,LasVegas,1,0 kWh,0 kW,277254,1008650,$183K,$12.47,$0M,333 kW,29913,305896
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Large Office,Los Angeles,1,316 kWh,154 kW,2577220,5797630,"$1,405K",$17.48,$1M,"2,263 kW",774060,2672110
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Supermarket,Boulder,1,11 kWh,9 kW,649177,628645,$27K,$18.90,$0M,34 kW,38798,16430
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Primary School,San Francisco,1,60 kWh,20 kW,355228,1277000,$234K,$16.78,$0M,381 kW,110013,553088
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Large Hotel,New York,1,667 kWh,154 kW,1759200,2147760,$543K,$41.95,$0M,567 kW,485750,589550
+BES-Small_Load_Delivery_Class_(Secondary),Primary School,Chicago,1,0 kWh,0 kW,177835,636797,$10K,$6.18,$0M,18 kW,3485,13859
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Small Hotel,Seattle,1,0 kWh,0 kW,33745.1,442267,$0K,$2.32,$0M,0 kW,0,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Small Office,Boulder,1,0 kWh,0 kW,37523.2,27280,$1K,$18.90,$0M,1 kW,1177.5,606.8
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Midrise Apartment,Boulder,1,0 kWh,0 kW,27609.9,219605,$18K,$4.84,$0M,33 kW,527.8,41726
+SC-9_-_General_Large_Low_Tension_Service_[NYC],Midrise Apartment,New York,1,0 kWh,0 kW,0,316142,$27K,$21.82,$0M,48 kW,0,65067
+OGS-TOU-NEM,Warehouse,LasVegas,1,0 kWh,0 kW,0,143814,$3K,$0.00,$0M,6 kW,0,5073
+Schedule_GS_Type_2_(Secondary),Small Office,Baltimore,1,0 kWh,0 kW,0,79396.3,$11K,$0.00,$0M,20 kW,0,20669.7
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Small Hotel,Seattle,1,0 kWh,0 kW,33745.1,443467,$0K,$2.32,$0M,0 kW,0,0
+Schedule_G_-_Secondary,Secondary School,Baltimore,1,0 kWh,0 kW,0,2939660,$397K,$0.00,$0M,722 kW,0,850550
+A-6_Small_General_Service_TOU_Single_Phase,Medium Office,San Francisco,1,306 kWh,49 kW,0,1737520,$300K,$0.00,$0M,378 kW,0,1108800
+GSEDS-1_Primary_Non-Demand,Warehouse,Helena,1,0 kWh,0 kW,0,224295,$25K,$0.00,$0M,45 kW,0,47129
+GSEDS-1_Primary_Demand,Hospital,Helena,1,0 kWh,0 kW,1158300,5599580,$730K,$7.90,$0M,"1,328 kW",89070,1247830
+A-10_Medium_General_Demand_Service_TOU_(Secondary_Voltage),Medium Office,San Francisco,1,110 kWh,35 kW,290061,1024170,$208K,$16.78,$0M,297 kW,88799,499167
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Fast Food,Boulder,1,0 kWh,0 kW,55781,60765.3,$1K,$18.90,$0M,1 kW,724.1,426.4
+BES-Medium_Load_Delivery_Class_(Secondary),Restaurant,Chicago,1,0 kWh,0 kW,38048.1,203169,$0K,$6.29,$0M,0 kW,0,0
+Schedule_GL_(Secondary_Voltage),Medium Office,Baltimore,1,0 kWh,0 kW,182440,694358,$50K,$6.15,$0M,91 kW,6647,83414
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Medium Office,Atlanta,1,0 kWh,0 kW,0,694009,$0K,$0.00,$0M,0 kW,0,-1
+OLGS-1-TOU_Optional_Large_General_Service_1_Time_of_Use,Warehouse,LasVegas,1,0 kWh,0 kW,56061.6,138782,$30K,$12.47,$0M,54 kW,9272.4,45121.1
+Power_and_Light_Medium_Schedule_PLM-11,Primary School,Atlanta,1,0 kWh,0 kW,0,489309,$0K,$0.00,$0M,0 kW,0,0
+Schedule_MDB-_Medium_Standard_General_Service_Burien,Small Hotel,Seattle,1,0 kWh,0 kW,33745.1,428465,$0K,$2.32,$0M,0 kW,0,0
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Primary School,Anaheim,1,105 kWh,36 kW,788992,666177,$240K,$36.38,$0M,357 kW,314062,294523
+Schedule_TOU-EO-10_-_Time_Of_Use_-_Energy_Only,Retail Store,Atlanta,1,0 kWh,0 kW,0,424158,$0K,$0.00,$0M,0 kW,0,-2
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Strip Mall,San Francisco,1,107 kWh,26 kW,195888,577398,$141K,$17.58,$0M,187 kW,74640,368948
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Retail Store,New York,1,109 kWh,29 kW,426074,432440,$153K,$41.95,$0M,205 kW,141288,209403
+E-36_Standard_Price_Plan_for_General_Service,Hospital,Phoenix,1,0 kWh,0 kW,794574,5564950,$901K,$6.76,$0M,"1,638 kW",76561,1637700
+A-6_Small_General_Service_TOU_Single_Phase,Large Office,San Francisco,1,"2,765 kWh",444 kW,0,13741400,"$2,575K",$0.00,$3M,"3,169 kW",0,9426180
+GSEDS-1_Primary_Demand,Supermarket,Helena,1,0 kWh,0 kW,297934,1366560,$221K,$7.90,$0M,403 kW,29976,379397
+Schedule_MDC_-_Medium_Standard_General_Service_City,Primary School,Seattle,1,0 kWh,0 kW,58053.5,574095,$0K,$2.32,$0M,0 kW,0,0
+Schedule_GL_(Secondary_Voltage),Outpatient,Baltimore,1,0 kWh,0 kW,206967,1185200,$148K,$6.15,$0M,269 kW,15480,254460
+A-10_Medium_General_Demand_Service_(Secondary_Voltage),Retail Store,San Francisco,1,41 kWh,12 kW,150935,569885,$110K,$16.78,$0M,171 kW,43197,297848
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Large Hotel,Los Angeles,1,83 kWh,37 kW,681843,2067680,$290K,$17.48,$0M,455 kW,108811,590040
+GSEDS-1_Primary_Non-Demand,Primary School,Helena,1,0 kWh,0 kW,0,884274,$94K,$0.00,$0M,171 kW,0,186221
+GSD-1_(General_Service_Demand),Warehouse,Miami,1,0 kWh,0 kW,63105.3,89918.8,$2K,$10.60,$0M,3 kW,1244.7,1828.5
+Large_Light_&_Power_-_Primary_voltage_discount,Outpatient,Minneapolis,1,0 kWh,0 kW,0,912781,$0K,$7.55,$0M,0 kW,0,0
+Time_of_Use_General_Service_Demand_Metered_Option_A_GS-2_TOU_A_Single_Phase,Warehouse,Anaheim,1,15 kWh,6 kW,63099.4,174820,$45K,$13.20,$0M,70 kW,16915,100125.7
+Large_Light_&_Power_-_Primary_voltage_discount,Medium Office,Minneapolis,1,0 kWh,0 kW,0,580114,$0K,$7.55,$0M,0 kW,0,0
+E-32_STANDARD_PRICE_PLAN_FOR_TIME-OF-USE_GENERAL_SERVICE,Small Office,Phoenix,1,0 kWh,0 kW,16675.8,73228.3,$14K,$6.65,$0M,25 kW,3522.4,23524.9
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Warehouse,San Francisco,1,56 kWh,15 kW,136214,172023,$67K,$34.72,$0M,83 kW,67703.3,96538.3
+General_Service_(A14),Medium Office,Duluth,1,0 kWh,0 kW,379764,546556,$0K,$14.98,$0M,0 kW,0,0
+Small_General_Service_Metered_(A10),Small Office,Duluth,1,0 kWh,0 kW,0,78967.9,$9K,$0.00,$0M,16 kW,0,16446.2
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Restaurant,Anaheim,1,27 kWh,10 kW,165389,242996,$56K,$38.02,$0M,81 kW,44176,91270
+General_Service_With_Demand_Meter_(Rate_Code_25),Warehouse,Minneapolis,1,0 kWh,0 kW,39969.9,179034,$10K,$5.86,$0M,18 kW,1670.1,16352
+GSEDS-1_Secondary_Demand,Hospital,Helena,1,0 kWh,0 kW,1380150,5720990,$779K,$9.41,$0M,"1,418 kW",110010,1353910
+Schedule_G_-_Secondary,Hospital,Baltimore,1,0 kWh,0 kW,0,9691980,"$1,193K",$0.00,$1M,"2,171 kW",0,2890280
+A-6_Small_General_Service_TOU_Single_Phase,Outpatient,San Francisco,1,522 kWh,84 kW,0,2958630,$493K,$0.00,$1M,610 kW,0,1862280
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Secondary School,New York,1,884 kWh,215 kW,2974440,2287350,$881K,$41.95,$0M,"1,033 kW",971830,956940
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Retail Store,San Francisco,1,98 kWh,24 kW,193177,570619,$136K,$17.58,$0M,184 kW,69102,363618
+SC-9_-_General_Large_Voluntary_TOD_Service_[NYC],Outpatient,New York,1,225 kWh,70 kW,985413,1375560,$364K,$41.95,$0M,499 kW,305753,507765
+GSD-1_(General_Service_Demand),Fast Food,Miami,1,0 kWh,0 kW,42701.2,99884,$1K,$10.60,$0M,3 kW,1063.2,1588.7
+GSEDS-1_Secondary_Non-Demand,Warehouse,Helena,1,0 kWh,0 kW,0,262841,$42K,$0.00,$0M,77 kW,0,87498
+Secondary_Photovoltaic_Time-Of-Use_Service_-_Schedule_SPVTOU,Outpatient,Boulder,1,0 kWh,0 kW,171829,1419640,$207K,$4.84,$0M,377 kW,14526,454641
+BES-Large_Load_Delivery_Class_(Secondary),Warehouse,Chicago,1,0 kWh,0 kW,46700.7,149727,$0K,$6.73,$0M,0 kW,0,0
+Time-of-use_-_General_Service_-_Demand_Metered-Super_Off_Peak_TOU-GS-3-SOP_(2kv-50kv),Outpatient,Anaheim,1,133 kWh,53 kW,840551,926577,$304K,$36.38,$0M,442 kW,274670,406823
+GS-2_(S)_Large_General_Service_Secondary,Small Office,Fairbanks,1,0 kWh,0 kW,23232.1,139393,$17K,$11.06,$0M,30 kW,2258.5,38478
+General_Service_With_Demand_Meter_(Rate_Code_25),Small Hotel,Minneapolis,1,0 kWh,0 kW,94913.5,556164,$46K,$5.86,$0M,83 kW,0,78083
+GSEDS-1_Secondary_Non-Demand,Small Hotel,Helena,1,0 kWh,0 kW,0,760431,$68K,$0.00,$0M,123 kW,0,163961
+LGS-1_-_Large_General_Service,Medium Office,LasVegas,1,0 kWh,0 kW,250638,517736,$76K,$8.57,$0M,138 kW,22571,117266
+Schedule_GL_(Secondary_Voltage),Supermarket,Baltimore,1,0 kWh,0 kW,251186,1479440,$219K,$6.15,$0M,398 kW,27428,381600
+E-20_Maximum_demand_of_(1000_KW_or_more)_(Secondary),Hospital,San Francisco,1,816 kWh,239 kW,3809730,6661530,"$1,531K",$33.72,$1M,"2,211 kW",1109260,2840340
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Midrise Apartment,Anaheim,1,50 kWh,13 kW,143530,171793,$47K,$38.02,$0M,53 kW,40450,59259
+Small_General_Service_Metered_(A10),Midrise Apartment,Duluth,1,0 kWh,0 kW,0,241255,$18K,$0.00,$0M,34 kW,0,39222
+Power_and_Light_Medium_Schedule_PLM-11,Strip Mall,Atlanta,1,0 kWh,0 kW,0,229645,$0K,$0.00,$0M,0 kW,0,0
+E-19_Medium_General_Demand_TOU_Option_R_(Secondary_Voluntary),Midrise Apartment,San Francisco,1,61 kWh,13 kW,84123.8,253401,$50K,$17.58,$0M,54 kW,23882.5,105566
+General_Service_(A14),Fast Food,Duluth,1,0 kWh,0 kW,37965.2,97245.5,$0K,$14.98,$0M,0 kW,0,0
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Primary School,Los Angeles,1,35 kWh,20 kW,491061,957089,$228K,$17.48,$0M,378 kW,193462,418736
+Large_Light_&_Power_-_Primary_voltage_discount,Small Office,Minneapolis,1,0 kWh,0 kW,0,49547,$0K,$7.55,$0M,0 kW,0,0
+GSD-1_(General_Service_Demand),Restaurant,Miami,1,0 kWh,0 kW,85357.5,199646,$1K,$10.60,$0M,3 kW,917.5,1553
+Schedule_MDE-_Medium_Standard_General_Service_SeaTac,Restaurant,Seattle,1,0 kWh,0 kW,12731.1,203699,$0K,$2.32,$0M,0 kW,0,0
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Small Hotel,Miami,1,0 kWh,0 kW,194662,433017,$0K,$9.20,$0M,0 kW,0,0
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_A_(Under_2_kV),Large Office,Anaheim,1,"1,091 kWh",282 kW,2600780,6888430,"$1,884K",$15.57,$1M,"2,705 kW",807660,4150470
+GSEDS-1_Secondary_Non-Demand,Medium Office,Helena,1,0 kWh,0 kW,0,969700,$133K,$0.00,$0M,242 kW,0,291205
+Schedule_LGD_-_Large_Network_General_Service_(Transformer_Investment_Discount),Large Office,Seattle,1,0 kWh,0 kW,581365,4322940,$0K,$3.83,$0M,0 kW,0,0
+SECONDARY_GENERAL_SERVICE_-_SCHEDULE_SG,Small Hotel,Boulder,1,4 kWh,4 kW,256686,236572,$3K,$18.90,$0M,0 kW,5817,229
+Time-Of-Use_-_General_Service_-_Large_TOU-8_Option_B_(under_2_kV),Outpatient,Anaheim,1,150 kWh,58 kW,858507,1099300,$333K,$38.02,$0M,483 kW,305632,511140
+E-19_Medium_General_Demand_TOU_(Secondary_Voluntary),Medium Office,San Francisco,1,245 kWh,61 kW,608513,742490,$263K,$34.72,$0M,319 kW,270106,395930
+GS-2_(S)_Large_General_Service_Secondary,Restaurant,Fairbanks,1,0 kWh,0 kW,57532.3,506590,$45K,$11.06,$0M,83 kW,3039.7,116263
+GSDT-1_(General_Service_Demand_-Time-Of-Use),Supermarket,Miami,1,0 kWh,0 kW,442694,1014260,$15K,$9.20,$0M,28 kW,11719,17082
+LGS-2_Large_General_Service-_Secondary_Distribution_Voltage,Large Hotel,LasVegas,1,0 kWh,0 kW,547920,1362130,$0K,$16.49,$0M,0 kW,0,0
+Primary_Service_A-2_Rate(B)_Time-Of-Use_(TOU),Supermarket,Los Angeles,1,49 kWh,20 kW,562018,1659890,$307K,$17.48,$0M,518 kW,127791,680828
+General_Service_With_Demand_Meter_(Rate_Code_25),Retail Store,Minneapolis,1,0 kWh,0 kW,78587.7,387165,$66K,$5.86,$0M,120 kW,6571.3,111781
+BES-Large_Load_Delivery_Class_(Secondary),Secondary School,Chicago,1,0 kWh,0 kW,560689,1563540,$58K,$6.73,$0M,106 kW,20764,79370
+Time_of_Use_General_Service_Demand_Metered_Option_R_GS-2_TOU_R_-_Single_phase,Small Office,Anaheim,1,10 kWh,3 kW,23892.9,98992.6,$24K,$9.97,$0M,36 kW,7554.7,57290.9
+GSEDS-1_Primary_Demand,Secondary School,Helena,1,0 kWh,0 kW,528807,1636110,$125K,$7.90,$0M,228 kW,51314,207990
+BES-Small_Load_Delivery_Class_(Secondary),Strip Mall,Chicago,1,0 kWh,0 kW,80081.4,308644,$0K,$6.18,$0M,0 kW,0,0
+Schedule_MDD_-_Medium_Network_General_Service,Retail Store,Seattle,1,0 kWh,0 kW,50590.3,327988,$0K,$4.54,$0M,0 kW,0,0
+Schedule_MDT-Medium_Standard_General_Service_Tukwila,Supermarket,Seattle,1,0 kWh,0 kW,84094.8,1191180,$0K,$2.32,$0M,0 kW,0,0
+Power_and_Light_Medium_Schedule_PLM-11,Medium Office,Atlanta,1,0 kWh,0 kW,0,402890,$0K,$0.00,$0M,0 kW,0,0
+General_Service_With_Demand_Meter_(Rate_Code_25),Strip Mall,Minneapolis,1,0 kWh,0 kW,75272.4,367324,$60K,$5.86,$0M,109 kW,6325,101085
